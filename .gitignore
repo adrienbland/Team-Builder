@@ -1,0 +1,29 @@
+# --- Dossiers de compilation (LES PLUS IMPORTANTS) ---
+[Bb]in/
+[Oo]bj/
+
+# --- Fichiers système et IDE ---
+.DS_Store
+Thumbs.db
+.idea/
+.vs/
+*.user
+*.suo
+
+# --- Fichiers Visual Studio Code ---
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# --- Fichiers de log et de crash ---
+*.log
+[Ll]og/
+[Ll]ogs/
+
+# --- Variables d'environnement (Sécurité) ---
+.env
+.env.local
+.env.*

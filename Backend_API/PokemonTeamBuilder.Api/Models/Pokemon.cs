@@ -7,12 +7,12 @@ namespace PokemonTeamBuilder.Api.Models
         public int Id { get; set; } 
         public string? Name { get; set; }
         public string? Description { get; set; }
-        public string? SpriteUrl { get; set; } 
+        public string? Sprites { get; set; } 
         
         public List<string> Types { get; set; } = new List<string>();
 
         public List<string> Abilities { get; set; } = new List<string>();
-        public List<string> Movepool { get; set; } = new List<string>();
+        public List<string> Moves { get; set; } = new List<string>();
         public int Weight { get; set; }
         
         public int BaseHp { get; set; }
@@ -21,7 +21,6 @@ namespace PokemonTeamBuilder.Api.Models
         public int BaseDefenseSpe {get; set;}
         public int BaseDefense { get; set; }
         public int BaseSpeed {get; set;}
-        
 
         public int Level { get; set; } = 50;
         public List<string> ActiveMoves { get; set; } = new List<string>();

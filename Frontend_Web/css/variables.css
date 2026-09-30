@@ -1,0 +1,32 @@
+:root {
+    
+    --bg-main: #0f1115;
+    --bg-card: #181a20;
+    --bg-input: #22252e;
+    --text-main: #e0e2e5;
+    --text-muted: #8b92a5;
+
+    --type-normal: #A8A77A;
+    --type-fire: #EE8130;
+    --type-water: #6390F0;
+    --type-electric: #F7D02C;
+    --type-grass: #7AC74C;
+    --type-ice: #96D9D6;
+    --type-fighting: #C22E28;
+    --type-poison: #A33EA1;
+    --type-ground: #E2BF65;
+    --type-flying: #A98FF3;
+    --type-psychic: #F95587;
+    --type-bug: #A6B91A;
+    --type-rock: #B6A136;
+    --type-ghost: #735797;
+    --type-dragon: #6F35FC;
+    --type-dark: #705746;
+    --type-steel: #B7B7CE;
+    --type-fairy: #D685AD;
+
+    --shadow-card: 0 8px 24px rgba(0, 0, 0, 0.4);
+    --shadow-hover: 0 12px 32px rgba(0, 0, 0, 0.6);
+    --border-radius: 16px;
+    --border-color: rgba(255, 255, 255, 0.08);
+}

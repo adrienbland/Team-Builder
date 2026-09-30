@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pokémon Team Builder Pro</title>
+    <link rel="stylesheet" href="css/variables.css">
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/components/builder.css">
+    <link rel="stylesheet" href="css/components/card.css">
+    <link rel="stylesheet" href="css/components/wiki.css">
+    <script type="module" src="js/main.js?v=3" defer></script>
+</head>
+<body>
+    <header class="navbar">
+        <h1>Team Builder Pro</h1>
+        <nav>
+            <button id="btn-team-summary" class="nav-btn">📋 Résumé Équipe</button>
+            <button id="btn-type-chart" class="nav-btn">📊 Table des Types</button>
+        </nav>
+    </header>
+
+    <main id="app-layout">
+        
+        <aside id="team-column">
+            
+        </aside>
+
+        <section id="details-panel">
+            <div class="search-container">
+                <h2>Ajouter un Pokémon</h2>
+                <div class="search-box">
+                    <input type="text" id="pokemon-search" placeholder="Nom en français (ex: dracaufeu, ectoplasma)..." autocomplete="off">
+                    <div id="search-results" class="autocomplete-results"></div>
+                </div>
+            </div>
+            
+            <div id="active-pokemon-details" class="details-content">
+                <p class="placeholder-text">Sélectionne un slot à gauche ou recherche un Pokémon pour voir ses détails ici.</p>
+            </div>
+        </section>
+    </main>
+
+    <div id="modal-overlay" class="modal-overlay hidden">
+        <div class="modal-content" id="modal-content">
+            <button class="modal-close" id="modal-close">&times;</button>
+            <div id="modal-body"></div>
+        </div>
+    </div>
+</body>
+</html>

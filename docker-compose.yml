@@ -1,0 +1,24 @@
+version: '3.8'
+
+services:
+  backend:
+    build:
+      context: ./Backend_API
+      dockerfile: Dockerfile
+    ports:
+      - "5251:5251"
+    environment:
+      - ASPNETCORE_URLS=http://+:5251
+      - ASPNETCORE_ENVIRONMENT=Development
+    restart: unless-stopped
+
+  frontend:
+    image: nginx:alpine
+    ports:
+      - "8888:80"
+    volumes:
+      - ./Frontend_Web:/usr/share/nginx/html:ro
+      - ./Frontend_Web/nginx.conf:/etc/nginx/conf.d/default.conf:ro
+    depends_on:
+      - backend
+    restart: unless-stopped

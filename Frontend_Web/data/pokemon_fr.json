@@ -1,0 +1,5127 @@
+[
+  {
+    "id": 1,
+    "en": "bulbasaur",
+    "fr": "Bulbizarre"
+  },
+  {
+    "id": 4,
+    "en": "charmander",
+    "fr": "Salamèche"
+  },
+  {
+    "id": 7,
+    "en": "squirtle",
+    "fr": "Carapuce"
+  },
+  {
+    "id": 10,
+    "en": "caterpie",
+    "fr": "Chenipan"
+  },
+  {
+    "id": 13,
+    "en": "weedle",
+    "fr": "Aspicot"
+  },
+  {
+    "id": 16,
+    "en": "pidgey",
+    "fr": "Roucool"
+  },
+  {
+    "id": 19,
+    "en": "rattata",
+    "fr": "Rattata"
+  },
+  {
+    "id": 21,
+    "en": "spearow",
+    "fr": "Piafabec"
+  },
+  {
+    "id": 23,
+    "en": "ekans",
+    "fr": "Abo"
+  },
+  {
+    "id": 27,
+    "en": "sandshrew",
+    "fr": "Sabelette"
+  },
+  {
+    "id": 29,
+    "en": "nidoran-f",
+    "fr": "Nidoran♀"
+  },
+  {
+    "id": 32,
+    "en": "nidoran-m",
+    "fr": "Nidoran♂"
+  },
+  {
+    "id": 37,
+    "en": "vulpix",
+    "fr": "Goupix"
+  },
+  {
+    "id": 41,
+    "en": "zubat",
+    "fr": "Nosferapti"
+  },
+  {
+    "id": 43,
+    "en": "oddish",
+    "fr": "Mystherbe"
+  },
+  {
+    "id": 46,
+    "en": "paras",
+    "fr": "Paras"
+  },
+  {
+    "id": 48,
+    "en": "venonat",
+    "fr": "Mimitoss"
+  },
+  {
+    "id": 50,
+    "en": "diglett",
+    "fr": "Taupiqueur"
+  },
+  {
+    "id": 52,
+    "en": "meowth",
+    "fr": "Miaouss"
+  },
+  {
+    "id": 54,
+    "en": "psyduck",
+    "fr": "Psykokwak"
+  },
+  {
+    "id": 56,
+    "en": "mankey",
+    "fr": "Férosinge"
+  },
+  {
+    "id": 58,
+    "en": "growlithe",
+    "fr": "Caninos"
+  },
+  {
+    "id": 60,
+    "en": "poliwag",
+    "fr": "Ptitard"
+  },
+  {
+    "id": 63,
+    "en": "abra",
+    "fr": "Abra"
+  },
+  {
+    "id": 66,
+    "en": "machop",
+    "fr": "Machoc"
+  },
+  {
+    "id": 69,
+    "en": "bellsprout",
+    "fr": "Chétiflor"
+  },
+  {
+    "id": 72,
+    "en": "tentacool",
+    "fr": "Tentacool"
+  },
+  {
+    "id": 74,
+    "en": "geodude",
+    "fr": "Racaillou"
+  },
+  {
+    "id": 3,
+    "en": "venusaur",
+    "fr": "Florizarre"
+  },
+  {
+    "id": 5,
+    "en": "charmeleon",
+    "fr": "Reptincel"
+  },
+  {
+    "id": 6,
+    "en": "charizard",
+    "fr": "Dracaufeu"
+  },
+  {
+    "id": 8,
+    "en": "wartortle",
+    "fr": "Carabaffe"
+  },
+  {
+    "id": 9,
+    "en": "blastoise",
+    "fr": "Tortank"
+  },
+  {
+    "id": 11,
+    "en": "metapod",
+    "fr": "Chrysacier"
+  },
+  {
+    "id": 12,
+    "en": "butterfree",
+    "fr": "Papilusion"
+  },
+  {
+    "id": 14,
+    "en": "kakuna",
+    "fr": "Coconfort"
+  },
+  {
+    "id": 15,
+    "en": "beedrill",
+    "fr": "Dardargnan"
+  },
+  {
+    "id": 17,
+    "en": "pidgeotto",
+    "fr": "Roucoups"
+  },
+  {
+    "id": 18,
+    "en": "pidgeot",
+    "fr": "Roucarnage"
+  },
+  {
+    "id": 20,
+    "en": "raticate",
+    "fr": "Rattatac"
+  },
+  {
+    "id": 22,
+    "en": "fearow",
+    "fr": "Rapasdepic"
+  },
+  {
+    "id": 24,
+    "en": "arbok",
+    "fr": "Arbok"
+  },
+  {
+    "id": 25,
+    "en": "pikachu",
+    "fr": "Pikachu"
+  },
+  {
+    "id": 26,
+    "en": "raichu",
+    "fr": "Raichu"
+  },
+  {
+    "id": 28,
+    "en": "sandslash",
+    "fr": "Sablaireau"
+  },
+  {
+    "id": 30,
+    "en": "nidorina",
+    "fr": "Nidorina"
+  },
+  {
+    "id": 31,
+    "en": "nidoqueen",
+    "fr": "Nidoqueen"
+  },
+  {
+    "id": 33,
+    "en": "nidorino",
+    "fr": "Nidorino"
+  },
+  {
+    "id": 34,
+    "en": "nidoking",
+    "fr": "Nidoking"
+  },
+  {
+    "id": 35,
+    "en": "clefairy",
+    "fr": "Mélofée"
+  },
+  {
+    "id": 36,
+    "en": "clefable",
+    "fr": "Mélodelfe"
+  },
+  {
+    "id": 38,
+    "en": "ninetales",
+    "fr": "Feunard"
+  },
+  {
+    "id": 39,
+    "en": "jigglypuff",
+    "fr": "Rondoudou"
+  },
+  {
+    "id": 40,
+    "en": "wigglytuff",
+    "fr": "Grodoudou"
+  },
+  {
+    "id": 42,
+    "en": "golbat",
+    "fr": "Nosferalto"
+  },
+  {
+    "id": 44,
+    "en": "gloom",
+    "fr": "Ortide"
+  },
+  {
+    "id": 45,
+    "en": "vileplume",
+    "fr": "Rafflesia"
+  },
+  {
+    "id": 47,
+    "en": "parasect",
+    "fr": "Parasect"
+  },
+  {
+    "id": 49,
+    "en": "venomoth",
+    "fr": "Aéromite"
+  },
+  {
+    "id": 51,
+    "en": "dugtrio",
+    "fr": "Triopikeur"
+  },
+  {
+    "id": 53,
+    "en": "persian",
+    "fr": "Persian"
+  },
+  {
+    "id": 55,
+    "en": "golduck",
+    "fr": "Akwakwak"
+  },
+  {
+    "id": 57,
+    "en": "primeape",
+    "fr": "Colossinge"
+  },
+  {
+    "id": 59,
+    "en": "arcanine",
+    "fr": "Arcanin"
+  },
+  {
+    "id": 61,
+    "en": "poliwhirl",
+    "fr": "Têtarte"
+  },
+  {
+    "id": 62,
+    "en": "poliwrath",
+    "fr": "Tartard"
+  },
+  {
+    "id": 64,
+    "en": "kadabra",
+    "fr": "Kadabra"
+  },
+  {
+    "id": 65,
+    "en": "alakazam",
+    "fr": "Alakazam"
+  },
+  {
+    "id": 67,
+    "en": "machoke",
+    "fr": "Machopeur"
+  },
+  {
+    "id": 68,
+    "en": "machamp",
+    "fr": "Mackogneur"
+  },
+  {
+    "id": 70,
+    "en": "weepinbell",
+    "fr": "Boustiflor"
+  },
+  {
+    "id": 71,
+    "en": "victreebel",
+    "fr": "Empiflor"
+  },
+  {
+    "id": 73,
+    "en": "tentacruel",
+    "fr": "Tentacruel"
+  },
+  {
+    "id": 75,
+    "en": "graveler",
+    "fr": "Gravalanch"
+  },
+  {
+    "id": 77,
+    "en": "ponyta",
+    "fr": "Ponyta"
+  },
+  {
+    "id": 79,
+    "en": "slowpoke",
+    "fr": "Ramoloss"
+  },
+  {
+    "id": 81,
+    "en": "magnemite",
+    "fr": "Magnéti"
+  },
+  {
+    "id": 83,
+    "en": "farfetchd",
+    "fr": "Canarticho"
+  },
+  {
+    "id": 84,
+    "en": "doduo",
+    "fr": "Doduo"
+  },
+  {
+    "id": 86,
+    "en": "seel",
+    "fr": "Otaria"
+  },
+  {
+    "id": 88,
+    "en": "grimer",
+    "fr": "Tadmorv"
+  },
+  {
+    "id": 90,
+    "en": "shellder",
+    "fr": "Kokiyas"
+  },
+  {
+    "id": 92,
+    "en": "gastly",
+    "fr": "Fantominus"
+  },
+  {
+    "id": 95,
+    "en": "onix",
+    "fr": "Onix"
+  },
+  {
+    "id": 96,
+    "en": "drowzee",
+    "fr": "Soporifik"
+  },
+  {
+    "id": 98,
+    "en": "krabby",
+    "fr": "Krabby"
+  },
+  {
+    "id": 100,
+    "en": "voltorb",
+    "fr": "Voltorbe"
+  },
+  {
+    "id": 102,
+    "en": "exeggcute",
+    "fr": "Noeunoeuf"
+  },
+  {
+    "id": 104,
+    "en": "cubone",
+    "fr": "Osselait"
+  },
+  {
+    "id": 108,
+    "en": "lickitung",
+    "fr": "Excelangue"
+  },
+  {
+    "id": 109,
+    "en": "koffing",
+    "fr": "Smogo"
+  },
+  {
+    "id": 111,
+    "en": "rhyhorn",
+    "fr": "Rhinocorne"
+  },
+  {
+    "id": 114,
+    "en": "tangela",
+    "fr": "Saquedeneu"
+  },
+  {
+    "id": 115,
+    "en": "kangaskhan",
+    "fr": "Kangourex"
+  },
+  {
+    "id": 116,
+    "en": "horsea",
+    "fr": "Hypotrempe"
+  },
+  {
+    "id": 118,
+    "en": "goldeen",
+    "fr": "Poissirène"
+  },
+  {
+    "id": 120,
+    "en": "staryu",
+    "fr": "Stari"
+  },
+  {
+    "id": 123,
+    "en": "scyther",
+    "fr": "Insécateur"
+  },
+  {
+    "id": 127,
+    "en": "pinsir",
+    "fr": "Scarabrute"
+  },
+  {
+    "id": 128,
+    "en": "tauros",
+    "fr": "Tauros"
+  },
+  {
+    "id": 129,
+    "en": "magikarp",
+    "fr": "Magicarpe"
+  },
+  {
+    "id": 131,
+    "en": "lapras",
+    "fr": "Lokhlass"
+  },
+  {
+    "id": 132,
+    "en": "ditto",
+    "fr": "Métamorph"
+  },
+  {
+    "id": 133,
+    "en": "eevee",
+    "fr": "Évoli"
+  },
+  {
+    "id": 137,
+    "en": "porygon",
+    "fr": "Porygon"
+  },
+  {
+    "id": 138,
+    "en": "omanyte",
+    "fr": "Amonita"
+  },
+  {
+    "id": 140,
+    "en": "kabuto",
+    "fr": "Kabuto"
+  },
+  {
+    "id": 142,
+    "en": "aerodactyl",
+    "fr": "Ptéra"
+  },
+  {
+    "id": 144,
+    "en": "articuno",
+    "fr": "Artikodin"
+  },
+  {
+    "id": 145,
+    "en": "zapdos",
+    "fr": "Électhor"
+  },
+  {
+    "id": 146,
+    "en": "moltres",
+    "fr": "Sulfura"
+  },
+  {
+    "id": 147,
+    "en": "dratini",
+    "fr": "Minidraco"
+  },
+  {
+    "id": 150,
+    "en": "mewtwo",
+    "fr": "Mewtwo"
+  },
+  {
+    "id": 78,
+    "en": "rapidash",
+    "fr": "Galopa"
+  },
+  {
+    "id": 80,
+    "en": "slowbro",
+    "fr": "Flagadoss"
+  },
+  {
+    "id": 82,
+    "en": "magneton",
+    "fr": "Magnéton"
+  },
+  {
+    "id": 85,
+    "en": "dodrio",
+    "fr": "Dodrio"
+  },
+  {
+    "id": 87,
+    "en": "dewgong",
+    "fr": "Lamantine"
+  },
+  {
+    "id": 89,
+    "en": "muk",
+    "fr": "Grotadmorv"
+  },
+  {
+    "id": 91,
+    "en": "cloyster",
+    "fr": "Crustabri"
+  },
+  {
+    "id": 93,
+    "en": "haunter",
+    "fr": "Spectrum"
+  },
+  {
+    "id": 94,
+    "en": "gengar",
+    "fr": "Ectoplasma"
+  },
+  {
+    "id": 97,
+    "en": "hypno",
+    "fr": "Hypnomade"
+  },
+  {
+    "id": 99,
+    "en": "kingler",
+    "fr": "Krabboss"
+  },
+  {
+    "id": 101,
+    "en": "electrode",
+    "fr": "Électrode"
+  },
+  {
+    "id": 103,
+    "en": "exeggutor",
+    "fr": "Noadkoko"
+  },
+  {
+    "id": 105,
+    "en": "marowak",
+    "fr": "Ossatueur"
+  },
+  {
+    "id": 106,
+    "en": "hitmonlee",
+    "fr": "Kicklee"
+  },
+  {
+    "id": 107,
+    "en": "hitmonchan",
+    "fr": "Tygnon"
+  },
+  {
+    "id": 110,
+    "en": "weezing",
+    "fr": "Smogogo"
+  },
+  {
+    "id": 112,
+    "en": "rhydon",
+    "fr": "Rhinoféros"
+  },
+  {
+    "id": 113,
+    "en": "chansey",
+    "fr": "Leveinard"
+  },
+  {
+    "id": 117,
+    "en": "seadra",
+    "fr": "Hypocéan"
+  },
+  {
+    "id": 119,
+    "en": "seaking",
+    "fr": "Poissoroy"
+  },
+  {
+    "id": 121,
+    "en": "starmie",
+    "fr": "Staross"
+  },
+  {
+    "id": 122,
+    "en": "mr-mime",
+    "fr": "M. Mime"
+  },
+  {
+    "id": 124,
+    "en": "jynx",
+    "fr": "Lippoutou"
+  },
+  {
+    "id": 125,
+    "en": "electabuzz",
+    "fr": "Élektek"
+  },
+  {
+    "id": 126,
+    "en": "magmar",
+    "fr": "Magmar"
+  },
+  {
+    "id": 130,
+    "en": "gyarados",
+    "fr": "Léviator"
+  },
+  {
+    "id": 134,
+    "en": "vaporeon",
+    "fr": "Aquali"
+  },
+  {
+    "id": 135,
+    "en": "jolteon",
+    "fr": "Voltali"
+  },
+  {
+    "id": 136,
+    "en": "flareon",
+    "fr": "Pyroli"
+  },
+  {
+    "id": 139,
+    "en": "omastar",
+    "fr": "Amonistar"
+  },
+  {
+    "id": 141,
+    "en": "kabutops",
+    "fr": "Kabutops"
+  },
+  {
+    "id": 143,
+    "en": "snorlax",
+    "fr": "Ronflex"
+  },
+  {
+    "id": 148,
+    "en": "dragonair",
+    "fr": "Draco"
+  },
+  {
+    "id": 149,
+    "en": "dragonite",
+    "fr": "Dracolosse"
+  },
+  {
+    "id": 151,
+    "en": "mew",
+    "fr": "Mew"
+  },
+  {
+    "id": 152,
+    "en": "chikorita",
+    "fr": "Germignon"
+  },
+  {
+    "id": 155,
+    "en": "cyndaquil",
+    "fr": "Héricendre"
+  },
+  {
+    "id": 158,
+    "en": "totodile",
+    "fr": "Kaiminus"
+  },
+  {
+    "id": 161,
+    "en": "sentret",
+    "fr": "Fouinette"
+  },
+  {
+    "id": 163,
+    "en": "hoothoot",
+    "fr": "Hoothoot"
+  },
+  {
+    "id": 165,
+    "en": "ledyba",
+    "fr": "Coxy"
+  },
+  {
+    "id": 167,
+    "en": "spinarak",
+    "fr": "Mimigal"
+  },
+  {
+    "id": 170,
+    "en": "chinchou",
+    "fr": "Loupio"
+  },
+  {
+    "id": 172,
+    "en": "pichu",
+    "fr": "Pichu"
+  },
+  {
+    "id": 173,
+    "en": "cleffa",
+    "fr": "Mélo"
+  },
+  {
+    "id": 174,
+    "en": "igglybuff",
+    "fr": "Toudoudou"
+  },
+  {
+    "id": 175,
+    "en": "togepi",
+    "fr": "Togepi"
+  },
+  {
+    "id": 177,
+    "en": "natu",
+    "fr": "Natu"
+  },
+  {
+    "id": 179,
+    "en": "mareep",
+    "fr": "Wattouat"
+  },
+  {
+    "id": 187,
+    "en": "hoppip",
+    "fr": "Granivol"
+  },
+  {
+    "id": 190,
+    "en": "aipom",
+    "fr": "Capumain"
+  },
+  {
+    "id": 191,
+    "en": "sunkern",
+    "fr": "Tournegrin"
+  },
+  {
+    "id": 193,
+    "en": "yanma",
+    "fr": "Yanma"
+  },
+  {
+    "id": 194,
+    "en": "wooper",
+    "fr": "Axoloto"
+  },
+  {
+    "id": 198,
+    "en": "murkrow",
+    "fr": "Cornèbre"
+  },
+  {
+    "id": 200,
+    "en": "misdreavus",
+    "fr": "Feuforêve"
+  },
+  {
+    "id": 201,
+    "en": "unown",
+    "fr": "Zarbi"
+  },
+  {
+    "id": 203,
+    "en": "girafarig",
+    "fr": "Girafarig"
+  },
+  {
+    "id": 204,
+    "en": "pineco",
+    "fr": "Pomdepik"
+  },
+  {
+    "id": 206,
+    "en": "dunsparce",
+    "fr": "Insolourdo"
+  },
+  {
+    "id": 207,
+    "en": "gligar",
+    "fr": "Scorplane"
+  },
+  {
+    "id": 209,
+    "en": "snubbull",
+    "fr": "Snubbull"
+  },
+  {
+    "id": 211,
+    "en": "qwilfish",
+    "fr": "Qwilfish"
+  },
+  {
+    "id": 213,
+    "en": "shuckle",
+    "fr": "Caratroc"
+  },
+  {
+    "id": 214,
+    "en": "heracross",
+    "fr": "Scarhino"
+  },
+  {
+    "id": 215,
+    "en": "sneasel",
+    "fr": "Farfuret"
+  },
+  {
+    "id": 216,
+    "en": "teddiursa",
+    "fr": "Teddiursa"
+  },
+  {
+    "id": 218,
+    "en": "slugma",
+    "fr": "Limagma"
+  },
+  {
+    "id": 220,
+    "en": "swinub",
+    "fr": "Marcacrin"
+  },
+  {
+    "id": 222,
+    "en": "corsola",
+    "fr": "Corayon"
+  },
+  {
+    "id": 223,
+    "en": "remoraid",
+    "fr": "Rémoraid"
+  },
+  {
+    "id": 225,
+    "en": "delibird",
+    "fr": "Cadoizo"
+  },
+  {
+    "id": 154,
+    "en": "meganium",
+    "fr": "Méganium"
+  },
+  {
+    "id": 156,
+    "en": "quilava",
+    "fr": "Feurisson"
+  },
+  {
+    "id": 157,
+    "en": "typhlosion",
+    "fr": "Typhlosion"
+  },
+  {
+    "id": 159,
+    "en": "croconaw",
+    "fr": "Crocrodil"
+  },
+  {
+    "id": 160,
+    "en": "feraligatr",
+    "fr": "Aligatueur"
+  },
+  {
+    "id": 162,
+    "en": "furret",
+    "fr": "Fouinar"
+  },
+  {
+    "id": 164,
+    "en": "noctowl",
+    "fr": "Noarfang"
+  },
+  {
+    "id": 166,
+    "en": "ledian",
+    "fr": "Coxyclaque"
+  },
+  {
+    "id": 168,
+    "en": "ariados",
+    "fr": "Migalos"
+  },
+  {
+    "id": 169,
+    "en": "crobat",
+    "fr": "Nostenfer"
+  },
+  {
+    "id": 171,
+    "en": "lanturn",
+    "fr": "Lanturn"
+  },
+  {
+    "id": 176,
+    "en": "togetic",
+    "fr": "Togetic"
+  },
+  {
+    "id": 178,
+    "en": "xatu",
+    "fr": "Xatu"
+  },
+  {
+    "id": 180,
+    "en": "flaaffy",
+    "fr": "Lainergie"
+  },
+  {
+    "id": 181,
+    "en": "ampharos",
+    "fr": "Pharamp"
+  },
+  {
+    "id": 182,
+    "en": "bellossom",
+    "fr": "Joliflor"
+  },
+  {
+    "id": 183,
+    "en": "marill",
+    "fr": "Marill"
+  },
+  {
+    "id": 184,
+    "en": "azumarill",
+    "fr": "Azumarill"
+  },
+  {
+    "id": 185,
+    "en": "sudowoodo",
+    "fr": "Simularbre"
+  },
+  {
+    "id": 186,
+    "en": "politoed",
+    "fr": "Tarpaud"
+  },
+  {
+    "id": 188,
+    "en": "skiploom",
+    "fr": "Floravol"
+  },
+  {
+    "id": 189,
+    "en": "jumpluff",
+    "fr": "Cotovol"
+  },
+  {
+    "id": 192,
+    "en": "sunflora",
+    "fr": "Héliatronc"
+  },
+  {
+    "id": 195,
+    "en": "quagsire",
+    "fr": "Maraiste"
+  },
+  {
+    "id": 196,
+    "en": "espeon",
+    "fr": "Mentali"
+  },
+  {
+    "id": 197,
+    "en": "umbreon",
+    "fr": "Noctali"
+  },
+  {
+    "id": 199,
+    "en": "slowking",
+    "fr": "Roigada"
+  },
+  {
+    "id": 202,
+    "en": "wobbuffet",
+    "fr": "Qulbutoké"
+  },
+  {
+    "id": 205,
+    "en": "forretress",
+    "fr": "Foretress"
+  },
+  {
+    "id": 208,
+    "en": "steelix",
+    "fr": "Steelix"
+  },
+  {
+    "id": 210,
+    "en": "granbull",
+    "fr": "Granbull"
+  },
+  {
+    "id": 212,
+    "en": "scizor",
+    "fr": "Cizayox"
+  },
+  {
+    "id": 217,
+    "en": "ursaring",
+    "fr": "Ursaring"
+  },
+  {
+    "id": 219,
+    "en": "magcargo",
+    "fr": "Volcaropod"
+  },
+  {
+    "id": 221,
+    "en": "piloswine",
+    "fr": "Cochignon"
+  },
+  {
+    "id": 224,
+    "en": "octillery",
+    "fr": "Octillery"
+  },
+  {
+    "id": 227,
+    "en": "skarmory",
+    "fr": "Airmure"
+  },
+  {
+    "id": 228,
+    "en": "houndour",
+    "fr": "Malosse"
+  },
+  {
+    "id": 231,
+    "en": "phanpy",
+    "fr": "Phanpy"
+  },
+  {
+    "id": 234,
+    "en": "stantler",
+    "fr": "Cerfrousse"
+  },
+  {
+    "id": 235,
+    "en": "smeargle",
+    "fr": "Queulorior"
+  },
+  {
+    "id": 236,
+    "en": "tyrogue",
+    "fr": "Debugant"
+  },
+  {
+    "id": 238,
+    "en": "smoochum",
+    "fr": "Lippouti"
+  },
+  {
+    "id": 239,
+    "en": "elekid",
+    "fr": "Élekid"
+  },
+  {
+    "id": 240,
+    "en": "magby",
+    "fr": "Magby"
+  },
+  {
+    "id": 241,
+    "en": "miltank",
+    "fr": "Écrémeuh"
+  },
+  {
+    "id": 243,
+    "en": "raikou",
+    "fr": "Raikou"
+  },
+  {
+    "id": 244,
+    "en": "entei",
+    "fr": "Entei"
+  },
+  {
+    "id": 245,
+    "en": "suicune",
+    "fr": "Suicune"
+  },
+  {
+    "id": 246,
+    "en": "larvitar",
+    "fr": "Embrylex"
+  },
+  {
+    "id": 249,
+    "en": "lugia",
+    "fr": "Lugia"
+  },
+  {
+    "id": 250,
+    "en": "ho-oh",
+    "fr": "Ho-Oh"
+  },
+  {
+    "id": 251,
+    "en": "celebi",
+    "fr": "Celebi"
+  },
+  {
+    "id": 252,
+    "en": "treecko",
+    "fr": "Arcko"
+  },
+  {
+    "id": 255,
+    "en": "torchic",
+    "fr": "Poussifeu"
+  },
+  {
+    "id": 258,
+    "en": "mudkip",
+    "fr": "Gobou"
+  },
+  {
+    "id": 261,
+    "en": "poochyena",
+    "fr": "Medhyèna"
+  },
+  {
+    "id": 263,
+    "en": "zigzagoon",
+    "fr": "Zigzaton"
+  },
+  {
+    "id": 265,
+    "en": "wurmple",
+    "fr": "Chenipotte"
+  },
+  {
+    "id": 270,
+    "en": "lotad",
+    "fr": "Nénupiot"
+  },
+  {
+    "id": 273,
+    "en": "seedot",
+    "fr": "Grainipiot"
+  },
+  {
+    "id": 276,
+    "en": "taillow",
+    "fr": "Nirondelle"
+  },
+  {
+    "id": 278,
+    "en": "wingull",
+    "fr": "Goélise"
+  },
+  {
+    "id": 280,
+    "en": "ralts",
+    "fr": "Tarsal"
+  },
+  {
+    "id": 283,
+    "en": "surskit",
+    "fr": "Arakdo"
+  },
+  {
+    "id": 285,
+    "en": "shroomish",
+    "fr": "Balignon"
+  },
+  {
+    "id": 287,
+    "en": "slakoth",
+    "fr": "Parecool"
+  },
+  {
+    "id": 290,
+    "en": "nincada",
+    "fr": "Ningale"
+  },
+  {
+    "id": 293,
+    "en": "whismur",
+    "fr": "Chuchmur"
+  },
+  {
+    "id": 296,
+    "en": "makuhita",
+    "fr": "Makuhita"
+  },
+  {
+    "id": 298,
+    "en": "azurill",
+    "fr": "Azurill"
+  },
+  {
+    "id": 299,
+    "en": "nosepass",
+    "fr": "Tarinor"
+  },
+  {
+    "id": 300,
+    "en": "skitty",
+    "fr": "Skitty"
+  },
+  {
+    "id": 229,
+    "en": "houndoom",
+    "fr": "Démolosse"
+  },
+  {
+    "id": 230,
+    "en": "kingdra",
+    "fr": "Hyporoi"
+  },
+  {
+    "id": 232,
+    "en": "donphan",
+    "fr": "Donphan"
+  },
+  {
+    "id": 233,
+    "en": "porygon2",
+    "fr": "Porygon2"
+  },
+  {
+    "id": 237,
+    "en": "hitmontop",
+    "fr": "Kapoera"
+  },
+  {
+    "id": 242,
+    "en": "blissey",
+    "fr": "Leuphorie"
+  },
+  {
+    "id": 247,
+    "en": "pupitar",
+    "fr": "Ymphect"
+  },
+  {
+    "id": 248,
+    "en": "tyranitar",
+    "fr": "Tyranocif"
+  },
+  {
+    "id": 253,
+    "en": "grovyle",
+    "fr": "Massko"
+  },
+  {
+    "id": 254,
+    "en": "sceptile",
+    "fr": "Jungko"
+  },
+  {
+    "id": 256,
+    "en": "combusken",
+    "fr": "Galifeu"
+  },
+  {
+    "id": 257,
+    "en": "blaziken",
+    "fr": "Braségali"
+  },
+  {
+    "id": 259,
+    "en": "marshtomp",
+    "fr": "Flobio"
+  },
+  {
+    "id": 260,
+    "en": "swampert",
+    "fr": "Laggron"
+  },
+  {
+    "id": 262,
+    "en": "mightyena",
+    "fr": "Grahyèna"
+  },
+  {
+    "id": 264,
+    "en": "linoone",
+    "fr": "Linéon"
+  },
+  {
+    "id": 266,
+    "en": "silcoon",
+    "fr": "Armulys"
+  },
+  {
+    "id": 267,
+    "en": "beautifly",
+    "fr": "Charmillon"
+  },
+  {
+    "id": 268,
+    "en": "cascoon",
+    "fr": "Blindalys"
+  },
+  {
+    "id": 269,
+    "en": "dustox",
+    "fr": "Papinox"
+  },
+  {
+    "id": 271,
+    "en": "lombre",
+    "fr": "Lombre"
+  },
+  {
+    "id": 272,
+    "en": "ludicolo",
+    "fr": "Ludicolo"
+  },
+  {
+    "id": 274,
+    "en": "nuzleaf",
+    "fr": "Pifeuil"
+  },
+  {
+    "id": 275,
+    "en": "shiftry",
+    "fr": "Tengalice"
+  },
+  {
+    "id": 277,
+    "en": "swellow",
+    "fr": "Hélédelle"
+  },
+  {
+    "id": 279,
+    "en": "pelipper",
+    "fr": "Bekipan"
+  },
+  {
+    "id": 281,
+    "en": "kirlia",
+    "fr": "Kirlia"
+  },
+  {
+    "id": 282,
+    "en": "gardevoir",
+    "fr": "Gardevoir"
+  },
+  {
+    "id": 284,
+    "en": "masquerain",
+    "fr": "Maskadra"
+  },
+  {
+    "id": 286,
+    "en": "breloom",
+    "fr": "Chapignon"
+  },
+  {
+    "id": 288,
+    "en": "vigoroth",
+    "fr": "Vigoroth"
+  },
+  {
+    "id": 289,
+    "en": "slaking",
+    "fr": "Monaflèmit"
+  },
+  {
+    "id": 291,
+    "en": "ninjask",
+    "fr": "Ninjask"
+  },
+  {
+    "id": 292,
+    "en": "shedinja",
+    "fr": "Munja"
+  },
+  {
+    "id": 294,
+    "en": "loudred",
+    "fr": "Ramboum"
+  },
+  {
+    "id": 295,
+    "en": "exploud",
+    "fr": "Brouhabam"
+  },
+  {
+    "id": 297,
+    "en": "hariyama",
+    "fr": "Hariyama"
+  },
+  {
+    "id": 302,
+    "en": "sableye",
+    "fr": "Ténéfix"
+  },
+  {
+    "id": 303,
+    "en": "mawile",
+    "fr": "Mysdibule"
+  },
+  {
+    "id": 304,
+    "en": "aron",
+    "fr": "Galekid"
+  },
+  {
+    "id": 307,
+    "en": "meditite",
+    "fr": "Méditikka"
+  },
+  {
+    "id": 309,
+    "en": "electrike",
+    "fr": "Dynavolt"
+  },
+  {
+    "id": 311,
+    "en": "plusle",
+    "fr": "Posipi"
+  },
+  {
+    "id": 312,
+    "en": "minun",
+    "fr": "Négapi"
+  },
+  {
+    "id": 313,
+    "en": "volbeat",
+    "fr": "Muciole"
+  },
+  {
+    "id": 314,
+    "en": "illumise",
+    "fr": "Lumivole"
+  },
+  {
+    "id": 316,
+    "en": "gulpin",
+    "fr": "Gloupti"
+  },
+  {
+    "id": 318,
+    "en": "carvanha",
+    "fr": "Carvanha"
+  },
+  {
+    "id": 320,
+    "en": "wailmer",
+    "fr": "Wailmer"
+  },
+  {
+    "id": 322,
+    "en": "numel",
+    "fr": "Chamallot"
+  },
+  {
+    "id": 324,
+    "en": "torkoal",
+    "fr": "Chartor"
+  },
+  {
+    "id": 325,
+    "en": "spoink",
+    "fr": "Spoink"
+  },
+  {
+    "id": 327,
+    "en": "spinda",
+    "fr": "Spinda"
+  },
+  {
+    "id": 328,
+    "en": "trapinch",
+    "fr": "Kraknoix"
+  },
+  {
+    "id": 331,
+    "en": "cacnea",
+    "fr": "Cacnea"
+  },
+  {
+    "id": 333,
+    "en": "swablu",
+    "fr": "Tylton"
+  },
+  {
+    "id": 335,
+    "en": "zangoose",
+    "fr": "Mangriff"
+  },
+  {
+    "id": 336,
+    "en": "seviper",
+    "fr": "Séviper"
+  },
+  {
+    "id": 337,
+    "en": "lunatone",
+    "fr": "Séléroc"
+  },
+  {
+    "id": 338,
+    "en": "solrock",
+    "fr": "Solaroc"
+  },
+  {
+    "id": 339,
+    "en": "barboach",
+    "fr": "Barloche"
+  },
+  {
+    "id": 341,
+    "en": "corphish",
+    "fr": "Écrapince"
+  },
+  {
+    "id": 343,
+    "en": "baltoy",
+    "fr": "Balbuto"
+  },
+  {
+    "id": 345,
+    "en": "lileep",
+    "fr": "Lilia"
+  },
+  {
+    "id": 347,
+    "en": "anorith",
+    "fr": "Anorith"
+  },
+  {
+    "id": 349,
+    "en": "feebas",
+    "fr": "Barpau"
+  },
+  {
+    "id": 351,
+    "en": "castform",
+    "fr": "Morphéo"
+  },
+  {
+    "id": 352,
+    "en": "kecleon",
+    "fr": "Kecleon"
+  },
+  {
+    "id": 353,
+    "en": "shuppet",
+    "fr": "Polichombr"
+  },
+  {
+    "id": 355,
+    "en": "duskull",
+    "fr": "Skelénox"
+  },
+  {
+    "id": 357,
+    "en": "tropius",
+    "fr": "Tropius"
+  },
+  {
+    "id": 359,
+    "en": "absol",
+    "fr": "Absol"
+  },
+  {
+    "id": 360,
+    "en": "wynaut",
+    "fr": "Okéoké"
+  },
+  {
+    "id": 361,
+    "en": "snorunt",
+    "fr": "Stalgamin"
+  },
+  {
+    "id": 363,
+    "en": "spheal",
+    "fr": "Obalie"
+  },
+  {
+    "id": 366,
+    "en": "clamperl",
+    "fr": "Coquiperl"
+  },
+  {
+    "id": 369,
+    "en": "relicanth",
+    "fr": "Relicanth"
+  },
+  {
+    "id": 370,
+    "en": "luvdisc",
+    "fr": "Lovdisc"
+  },
+  {
+    "id": 371,
+    "en": "bagon",
+    "fr": "Draby"
+  },
+  {
+    "id": 374,
+    "en": "beldum",
+    "fr": "Terhal"
+  },
+  {
+    "id": 305,
+    "en": "lairon",
+    "fr": "Galegon"
+  },
+  {
+    "id": 306,
+    "en": "aggron",
+    "fr": "Galeking"
+  },
+  {
+    "id": 308,
+    "en": "medicham",
+    "fr": "Charmina"
+  },
+  {
+    "id": 310,
+    "en": "manectric",
+    "fr": "Élecsprint"
+  },
+  {
+    "id": 315,
+    "en": "roselia",
+    "fr": "Rosélia"
+  },
+  {
+    "id": 317,
+    "en": "swalot",
+    "fr": "Avaltout"
+  },
+  {
+    "id": 319,
+    "en": "sharpedo",
+    "fr": "Sharpedo"
+  },
+  {
+    "id": 321,
+    "en": "wailord",
+    "fr": "Wailord"
+  },
+  {
+    "id": 323,
+    "en": "camerupt",
+    "fr": "Camérupt"
+  },
+  {
+    "id": 326,
+    "en": "grumpig",
+    "fr": "Groret"
+  },
+  {
+    "id": 329,
+    "en": "vibrava",
+    "fr": "Vibraninf"
+  },
+  {
+    "id": 330,
+    "en": "flygon",
+    "fr": "Libégon"
+  },
+  {
+    "id": 332,
+    "en": "cacturne",
+    "fr": "Cacturne"
+  },
+  {
+    "id": 334,
+    "en": "altaria",
+    "fr": "Altaria"
+  },
+  {
+    "id": 340,
+    "en": "whiscash",
+    "fr": "Barbicha"
+  },
+  {
+    "id": 342,
+    "en": "crawdaunt",
+    "fr": "Colhomard"
+  },
+  {
+    "id": 344,
+    "en": "claydol",
+    "fr": "Kaorine"
+  },
+  {
+    "id": 346,
+    "en": "cradily",
+    "fr": "Vacilys"
+  },
+  {
+    "id": 348,
+    "en": "armaldo",
+    "fr": "Armaldo"
+  },
+  {
+    "id": 350,
+    "en": "milotic",
+    "fr": "Milobellus"
+  },
+  {
+    "id": 354,
+    "en": "banette",
+    "fr": "Branette"
+  },
+  {
+    "id": 356,
+    "en": "dusclops",
+    "fr": "Téraclope"
+  },
+  {
+    "id": 358,
+    "en": "chimecho",
+    "fr": "Éoko"
+  },
+  {
+    "id": 362,
+    "en": "glalie",
+    "fr": "Oniglali"
+  },
+  {
+    "id": 364,
+    "en": "sealeo",
+    "fr": "Phogleur"
+  },
+  {
+    "id": 365,
+    "en": "walrein",
+    "fr": "Kaimorse"
+  },
+  {
+    "id": 367,
+    "en": "huntail",
+    "fr": "Serpang"
+  },
+  {
+    "id": 368,
+    "en": "gorebyss",
+    "fr": "Rosabyss"
+  },
+  {
+    "id": 372,
+    "en": "shelgon",
+    "fr": "Drackhaus"
+  },
+  {
+    "id": 373,
+    "en": "salamence",
+    "fr": "Drattak"
+  },
+  {
+    "id": 375,
+    "en": "metang",
+    "fr": "Métang"
+  },
+  {
+    "id": 377,
+    "en": "regirock",
+    "fr": "Regirock"
+  },
+  {
+    "id": 378,
+    "en": "regice",
+    "fr": "Regice"
+  },
+  {
+    "id": 379,
+    "en": "registeel",
+    "fr": "Registeel"
+  },
+  {
+    "id": 380,
+    "en": "latias",
+    "fr": "Latias"
+  },
+  {
+    "id": 381,
+    "en": "latios",
+    "fr": "Latios"
+  },
+  {
+    "id": 382,
+    "en": "kyogre",
+    "fr": "Kyogre"
+  },
+  {
+    "id": 383,
+    "en": "groudon",
+    "fr": "Groudon"
+  },
+  {
+    "id": 384,
+    "en": "rayquaza",
+    "fr": "Rayquaza"
+  },
+  {
+    "id": 385,
+    "en": "jirachi",
+    "fr": "Jirachi"
+  },
+  {
+    "id": 386,
+    "en": "deoxys",
+    "fr": "Deoxys"
+  },
+  {
+    "id": 387,
+    "en": "turtwig",
+    "fr": "Tortipouss"
+  },
+  {
+    "id": 390,
+    "en": "chimchar",
+    "fr": "Ouisticram"
+  },
+  {
+    "id": 393,
+    "en": "piplup",
+    "fr": "Tiplouf"
+  },
+  {
+    "id": 396,
+    "en": "starly",
+    "fr": "Étourmi"
+  },
+  {
+    "id": 399,
+    "en": "bidoof",
+    "fr": "Keunotor"
+  },
+  {
+    "id": 401,
+    "en": "kricketot",
+    "fr": "Crikzik"
+  },
+  {
+    "id": 403,
+    "en": "shinx",
+    "fr": "Lixy"
+  },
+  {
+    "id": 406,
+    "en": "budew",
+    "fr": "Rozbouton"
+  },
+  {
+    "id": 408,
+    "en": "cranidos",
+    "fr": "Kranidos"
+  },
+  {
+    "id": 410,
+    "en": "shieldon",
+    "fr": "Dinoclier"
+  },
+  {
+    "id": 412,
+    "en": "burmy",
+    "fr": "Cheniti"
+  },
+  {
+    "id": 415,
+    "en": "combee",
+    "fr": "Apitrini"
+  },
+  {
+    "id": 417,
+    "en": "pachirisu",
+    "fr": "Pachirisu"
+  },
+  {
+    "id": 418,
+    "en": "buizel",
+    "fr": "Mustébouée"
+  },
+  {
+    "id": 420,
+    "en": "cherubi",
+    "fr": "Ceribou"
+  },
+  {
+    "id": 422,
+    "en": "shellos",
+    "fr": "Sancoki"
+  },
+  {
+    "id": 425,
+    "en": "drifloon",
+    "fr": "Baudrive"
+  },
+  {
+    "id": 427,
+    "en": "buneary",
+    "fr": "Laporeille"
+  },
+  {
+    "id": 431,
+    "en": "glameow",
+    "fr": "Chaglam"
+  },
+  {
+    "id": 433,
+    "en": "chingling",
+    "fr": "Korillon"
+  },
+  {
+    "id": 434,
+    "en": "stunky",
+    "fr": "Moufouette"
+  },
+  {
+    "id": 436,
+    "en": "bronzor",
+    "fr": "Archéomire"
+  },
+  {
+    "id": 438,
+    "en": "bonsly",
+    "fr": "Manzaï"
+  },
+  {
+    "id": 439,
+    "en": "mime-jr",
+    "fr": "Mime Jr."
+  },
+  {
+    "id": 440,
+    "en": "happiny",
+    "fr": "Ptiravi"
+  },
+  {
+    "id": 441,
+    "en": "chatot",
+    "fr": "Pijako"
+  },
+  {
+    "id": 442,
+    "en": "spiritomb",
+    "fr": "Spiritomb"
+  },
+  {
+    "id": 443,
+    "en": "gible",
+    "fr": "Griknot"
+  },
+  {
+    "id": 446,
+    "en": "munchlax",
+    "fr": "Goinfrex"
+  },
+  {
+    "id": 447,
+    "en": "riolu",
+    "fr": "Riolu"
+  },
+  {
+    "id": 449,
+    "en": "hippopotas",
+    "fr": "Hippopotas"
+  },
+  {
+    "id": 451,
+    "en": "skorupi",
+    "fr": "Rapion"
+  },
+  {
+    "id": 453,
+    "en": "croagunk",
+    "fr": "Cradopaud"
+  },
+  {
+    "id": 388,
+    "en": "grotle",
+    "fr": "Boskara"
+  },
+  {
+    "id": 389,
+    "en": "torterra",
+    "fr": "Torterra"
+  },
+  {
+    "id": 392,
+    "en": "infernape",
+    "fr": "Simiabraz"
+  },
+  {
+    "id": 394,
+    "en": "prinplup",
+    "fr": "Prinplouf"
+  },
+  {
+    "id": 395,
+    "en": "empoleon",
+    "fr": "Pingoléon"
+  },
+  {
+    "id": 397,
+    "en": "staravia",
+    "fr": "Étourvol"
+  },
+  {
+    "id": 398,
+    "en": "staraptor",
+    "fr": "Étouraptor"
+  },
+  {
+    "id": 400,
+    "en": "bibarel",
+    "fr": "Castorno"
+  },
+  {
+    "id": 402,
+    "en": "kricketune",
+    "fr": "Mélokrik"
+  },
+  {
+    "id": 404,
+    "en": "luxio",
+    "fr": "Luxio"
+  },
+  {
+    "id": 405,
+    "en": "luxray",
+    "fr": "Luxray"
+  },
+  {
+    "id": 407,
+    "en": "roserade",
+    "fr": "Roserade"
+  },
+  {
+    "id": 409,
+    "en": "rampardos",
+    "fr": "Charkos"
+  },
+  {
+    "id": 411,
+    "en": "bastiodon",
+    "fr": "Bastiodon"
+  },
+  {
+    "id": 413,
+    "en": "wormadam",
+    "fr": "Cheniselle"
+  },
+  {
+    "id": 414,
+    "en": "mothim",
+    "fr": "Papilord"
+  },
+  {
+    "id": 416,
+    "en": "vespiquen",
+    "fr": "Apireine"
+  },
+  {
+    "id": 419,
+    "en": "floatzel",
+    "fr": "Mustéflott"
+  },
+  {
+    "id": 421,
+    "en": "cherrim",
+    "fr": "Ceriflor"
+  },
+  {
+    "id": 424,
+    "en": "ambipom",
+    "fr": "Capidextre"
+  },
+  {
+    "id": 426,
+    "en": "drifblim",
+    "fr": "Grodrive"
+  },
+  {
+    "id": 428,
+    "en": "lopunny",
+    "fr": "Lockpin"
+  },
+  {
+    "id": 429,
+    "en": "mismagius",
+    "fr": "Magirêve"
+  },
+  {
+    "id": 430,
+    "en": "honchkrow",
+    "fr": "Corboss"
+  },
+  {
+    "id": 432,
+    "en": "purugly",
+    "fr": "Chaffreux"
+  },
+  {
+    "id": 435,
+    "en": "skuntank",
+    "fr": "Moufflair"
+  },
+  {
+    "id": 437,
+    "en": "bronzong",
+    "fr": "Archéodong"
+  },
+  {
+    "id": 444,
+    "en": "gabite",
+    "fr": "Carmache"
+  },
+  {
+    "id": 445,
+    "en": "garchomp",
+    "fr": "Carchacrok"
+  },
+  {
+    "id": 448,
+    "en": "lucario",
+    "fr": "Lucario"
+  },
+  {
+    "id": 450,
+    "en": "hippowdon",
+    "fr": "Hippodocus"
+  },
+  {
+    "id": 452,
+    "en": "drapion",
+    "fr": "Drascore"
+  },
+  {
+    "id": 455,
+    "en": "carnivine",
+    "fr": "Vortente"
+  },
+  {
+    "id": 456,
+    "en": "finneon",
+    "fr": "Écayon"
+  },
+  {
+    "id": 458,
+    "en": "mantyke",
+    "fr": "Babimanta"
+  },
+  {
+    "id": 459,
+    "en": "snover",
+    "fr": "Blizzi"
+  },
+  {
+    "id": 479,
+    "en": "rotom",
+    "fr": "Motisma"
+  },
+  {
+    "id": 480,
+    "en": "uxie",
+    "fr": "Créhelf"
+  },
+  {
+    "id": 481,
+    "en": "mesprit",
+    "fr": "Créfollet"
+  },
+  {
+    "id": 482,
+    "en": "azelf",
+    "fr": "Créfadet"
+  },
+  {
+    "id": 483,
+    "en": "dialga",
+    "fr": "Dialga"
+  },
+  {
+    "id": 484,
+    "en": "palkia",
+    "fr": "Palkia"
+  },
+  {
+    "id": 485,
+    "en": "heatran",
+    "fr": "Heatran"
+  },
+  {
+    "id": 486,
+    "en": "regigigas",
+    "fr": "Regigigas"
+  },
+  {
+    "id": 487,
+    "en": "giratina",
+    "fr": "Giratina"
+  },
+  {
+    "id": 488,
+    "en": "cresselia",
+    "fr": "Cresselia"
+  },
+  {
+    "id": 489,
+    "en": "phione",
+    "fr": "Phione"
+  },
+  {
+    "id": 490,
+    "en": "manaphy",
+    "fr": "Manaphy"
+  },
+  {
+    "id": 491,
+    "en": "darkrai",
+    "fr": "Darkrai"
+  },
+  {
+    "id": 492,
+    "en": "shaymin",
+    "fr": "Shaymin"
+  },
+  {
+    "id": 493,
+    "en": "arceus",
+    "fr": "Arceus"
+  },
+  {
+    "id": 494,
+    "en": "victini",
+    "fr": "Victini"
+  },
+  {
+    "id": 495,
+    "en": "snivy",
+    "fr": "Vipélierre"
+  },
+  {
+    "id": 498,
+    "en": "tepig",
+    "fr": "Gruikui"
+  },
+  {
+    "id": 501,
+    "en": "oshawott",
+    "fr": "Moustillon"
+  },
+  {
+    "id": 504,
+    "en": "patrat",
+    "fr": "Ratentif"
+  },
+  {
+    "id": 506,
+    "en": "lillipup",
+    "fr": "Ponchiot"
+  },
+  {
+    "id": 509,
+    "en": "purrloin",
+    "fr": "Chacripan"
+  },
+  {
+    "id": 511,
+    "en": "pansage",
+    "fr": "Feuillajou"
+  },
+  {
+    "id": 513,
+    "en": "pansear",
+    "fr": "Flamajou"
+  },
+  {
+    "id": 515,
+    "en": "panpour",
+    "fr": "Flotajou"
+  },
+  {
+    "id": 517,
+    "en": "munna",
+    "fr": "Munna"
+  },
+  {
+    "id": 519,
+    "en": "pidove",
+    "fr": "Poichigeon"
+  },
+  {
+    "id": 522,
+    "en": "blitzle",
+    "fr": "Zébibron"
+  },
+  {
+    "id": 524,
+    "en": "roggenrola",
+    "fr": "Nodulithe"
+  },
+  {
+    "id": 527,
+    "en": "woobat",
+    "fr": "Chovsourir"
+  },
+  {
+    "id": 529,
+    "en": "drilbur",
+    "fr": "Rototaupe"
+  },
+  {
+    "id": 531,
+    "en": "audino",
+    "fr": "Nanméouïe"
+  },
+  {
+    "id": 457,
+    "en": "lumineon",
+    "fr": "Luminéon"
+  },
+  {
+    "id": 460,
+    "en": "abomasnow",
+    "fr": "Blizzaroi"
+  },
+  {
+    "id": 461,
+    "en": "weavile",
+    "fr": "Dimoret"
+  },
+  {
+    "id": 462,
+    "en": "magnezone",
+    "fr": "Magnézone"
+  },
+  {
+    "id": 463,
+    "en": "lickilicky",
+    "fr": "Coudlangue"
+  },
+  {
+    "id": 464,
+    "en": "rhyperior",
+    "fr": "Rhinastoc"
+  },
+  {
+    "id": 465,
+    "en": "tangrowth",
+    "fr": "Bouldeneu"
+  },
+  {
+    "id": 466,
+    "en": "electivire",
+    "fr": "Élekable"
+  },
+  {
+    "id": 467,
+    "en": "magmortar",
+    "fr": "Maganon"
+  },
+  {
+    "id": 468,
+    "en": "togekiss",
+    "fr": "Togekiss"
+  },
+  {
+    "id": 469,
+    "en": "yanmega",
+    "fr": "Yanmega"
+  },
+  {
+    "id": 470,
+    "en": "leafeon",
+    "fr": "Phyllali"
+  },
+  {
+    "id": 471,
+    "en": "glaceon",
+    "fr": "Givrali"
+  },
+  {
+    "id": 472,
+    "en": "gliscor",
+    "fr": "Scorvol"
+  },
+  {
+    "id": 474,
+    "en": "porygon-z",
+    "fr": "Porygon-Z"
+  },
+  {
+    "id": 475,
+    "en": "gallade",
+    "fr": "Gallame"
+  },
+  {
+    "id": 476,
+    "en": "probopass",
+    "fr": "Tarinorme"
+  },
+  {
+    "id": 477,
+    "en": "dusknoir",
+    "fr": "Noctunoir"
+  },
+  {
+    "id": 478,
+    "en": "froslass",
+    "fr": "Momartik"
+  },
+  {
+    "id": 496,
+    "en": "servine",
+    "fr": "Lianaja"
+  },
+  {
+    "id": 497,
+    "en": "serperior",
+    "fr": "Majaspic"
+  },
+  {
+    "id": 499,
+    "en": "pignite",
+    "fr": "Grotichon"
+  },
+  {
+    "id": 500,
+    "en": "emboar",
+    "fr": "Roitiflam"
+  },
+  {
+    "id": 502,
+    "en": "dewott",
+    "fr": "Mateloutre"
+  },
+  {
+    "id": 503,
+    "en": "samurott",
+    "fr": "Clamiral"
+  },
+  {
+    "id": 505,
+    "en": "watchog",
+    "fr": "Miradar"
+  },
+  {
+    "id": 508,
+    "en": "stoutland",
+    "fr": "Mastouffe"
+  },
+  {
+    "id": 510,
+    "en": "liepard",
+    "fr": "Léopardus"
+  },
+  {
+    "id": 512,
+    "en": "simisage",
+    "fr": "Feuiloutan"
+  },
+  {
+    "id": 514,
+    "en": "simisear",
+    "fr": "Flamoutan"
+  },
+  {
+    "id": 516,
+    "en": "simipour",
+    "fr": "Flotoutan"
+  },
+  {
+    "id": 518,
+    "en": "musharna",
+    "fr": "Mushana"
+  },
+  {
+    "id": 520,
+    "en": "tranquill",
+    "fr": "Colombeau"
+  },
+  {
+    "id": 521,
+    "en": "unfezant",
+    "fr": "Déflaisan"
+  },
+  {
+    "id": 523,
+    "en": "zebstrika",
+    "fr": "Zéblitz"
+  },
+  {
+    "id": 525,
+    "en": "boldore",
+    "fr": "Géolithe"
+  },
+  {
+    "id": 526,
+    "en": "gigalith",
+    "fr": "Gigalithe"
+  },
+  {
+    "id": 528,
+    "en": "swoobat",
+    "fr": "Rhinolove"
+  },
+  {
+    "id": 530,
+    "en": "excadrill",
+    "fr": "Minotaupe"
+  },
+  {
+    "id": 532,
+    "en": "timburr",
+    "fr": "Charpenti"
+  },
+  {
+    "id": 535,
+    "en": "tympole",
+    "fr": "Tritonde"
+  },
+  {
+    "id": 538,
+    "en": "throh",
+    "fr": "Judokrak"
+  },
+  {
+    "id": 539,
+    "en": "sawk",
+    "fr": "Karaclée"
+  },
+  {
+    "id": 540,
+    "en": "sewaddle",
+    "fr": "Larveyette"
+  },
+  {
+    "id": 543,
+    "en": "venipede",
+    "fr": "Venipatte"
+  },
+  {
+    "id": 546,
+    "en": "cottonee",
+    "fr": "Doudouvet"
+  },
+  {
+    "id": 548,
+    "en": "petilil",
+    "fr": "Chlorobule"
+  },
+  {
+    "id": 550,
+    "en": "basculin",
+    "fr": "Bargantua"
+  },
+  {
+    "id": 551,
+    "en": "sandile",
+    "fr": "Mascaïman"
+  },
+  {
+    "id": 554,
+    "en": "darumaka",
+    "fr": "Darumarond"
+  },
+  {
+    "id": 556,
+    "en": "maractus",
+    "fr": "Maracachi"
+  },
+  {
+    "id": 557,
+    "en": "dwebble",
+    "fr": "Crabicoque"
+  },
+  {
+    "id": 559,
+    "en": "scraggy",
+    "fr": "Baggiguane"
+  },
+  {
+    "id": 561,
+    "en": "sigilyph",
+    "fr": "Cryptéro"
+  },
+  {
+    "id": 562,
+    "en": "yamask",
+    "fr": "Tutafeh"
+  },
+  {
+    "id": 564,
+    "en": "tirtouga",
+    "fr": "Carapagos"
+  },
+  {
+    "id": 566,
+    "en": "archen",
+    "fr": "Arkéapti"
+  },
+  {
+    "id": 568,
+    "en": "trubbish",
+    "fr": "Miamiasme"
+  },
+  {
+    "id": 570,
+    "en": "zorua",
+    "fr": "Zorua"
+  },
+  {
+    "id": 572,
+    "en": "minccino",
+    "fr": "Chinchidou"
+  },
+  {
+    "id": 574,
+    "en": "gothita",
+    "fr": "Scrutella"
+  },
+  {
+    "id": 577,
+    "en": "solosis",
+    "fr": "Nucléos"
+  },
+  {
+    "id": 580,
+    "en": "ducklett",
+    "fr": "Couaneton"
+  },
+  {
+    "id": 582,
+    "en": "vanillite",
+    "fr": "Sorbébé"
+  },
+  {
+    "id": 585,
+    "en": "deerling",
+    "fr": "Vivaldaim"
+  },
+  {
+    "id": 587,
+    "en": "emolga",
+    "fr": "Emolga"
+  },
+  {
+    "id": 588,
+    "en": "karrablast",
+    "fr": "Carabing"
+  },
+  {
+    "id": 590,
+    "en": "foongus",
+    "fr": "Trompignon"
+  },
+  {
+    "id": 592,
+    "en": "frillish",
+    "fr": "Viskuse"
+  },
+  {
+    "id": 594,
+    "en": "alomomola",
+    "fr": "Mamanbo"
+  },
+  {
+    "id": 595,
+    "en": "joltik",
+    "fr": "Statitik"
+  },
+  {
+    "id": 597,
+    "en": "ferroseed",
+    "fr": "Grindur"
+  },
+  {
+    "id": 599,
+    "en": "klink",
+    "fr": "Tic"
+  },
+  {
+    "id": 602,
+    "en": "tynamo",
+    "fr": "Anchwatt"
+  },
+  {
+    "id": 605,
+    "en": "elgyem",
+    "fr": "Lewsor"
+  },
+  {
+    "id": 607,
+    "en": "litwick",
+    "fr": "Funécire"
+  },
+  {
+    "id": 534,
+    "en": "conkeldurr",
+    "fr": "Bétochef"
+  },
+  {
+    "id": 536,
+    "en": "palpitoad",
+    "fr": "Batracné"
+  },
+  {
+    "id": 537,
+    "en": "seismitoad",
+    "fr": "Crapustule"
+  },
+  {
+    "id": 541,
+    "en": "swadloon",
+    "fr": "Couverdure"
+  },
+  {
+    "id": 542,
+    "en": "leavanny",
+    "fr": "Manternel"
+  },
+  {
+    "id": 544,
+    "en": "whirlipede",
+    "fr": "Scobolide"
+  },
+  {
+    "id": 545,
+    "en": "scolipede",
+    "fr": "Brutapode"
+  },
+  {
+    "id": 547,
+    "en": "whimsicott",
+    "fr": "Farfaduvet"
+  },
+  {
+    "id": 549,
+    "en": "lilligant",
+    "fr": "Fragilady"
+  },
+  {
+    "id": 552,
+    "en": "krokorok",
+    "fr": "Escroco"
+  },
+  {
+    "id": 553,
+    "en": "krookodile",
+    "fr": "Crocorible"
+  },
+  {
+    "id": 555,
+    "en": "darmanitan",
+    "fr": "Darumacho"
+  },
+  {
+    "id": 558,
+    "en": "crustle",
+    "fr": "Crabaraque"
+  },
+  {
+    "id": 560,
+    "en": "scrafty",
+    "fr": "Baggaïd"
+  },
+  {
+    "id": 565,
+    "en": "carracosta",
+    "fr": "Mégapagos"
+  },
+  {
+    "id": 567,
+    "en": "archeops",
+    "fr": "Aéroptéryx"
+  },
+  {
+    "id": 569,
+    "en": "garbodor",
+    "fr": "Miasmax"
+  },
+  {
+    "id": 571,
+    "en": "zoroark",
+    "fr": "Zoroark"
+  },
+  {
+    "id": 573,
+    "en": "cinccino",
+    "fr": "Pashmilla"
+  },
+  {
+    "id": 575,
+    "en": "gothorita",
+    "fr": "Mesmérella"
+  },
+  {
+    "id": 576,
+    "en": "gothitelle",
+    "fr": "Sidérella"
+  },
+  {
+    "id": 578,
+    "en": "duosion",
+    "fr": "Méios"
+  },
+  {
+    "id": 579,
+    "en": "reuniclus",
+    "fr": "Symbios"
+  },
+  {
+    "id": 581,
+    "en": "swanna",
+    "fr": "Lakmécygne"
+  },
+  {
+    "id": 583,
+    "en": "vanillish",
+    "fr": "Sorboul"
+  },
+  {
+    "id": 584,
+    "en": "vanilluxe",
+    "fr": "Sorbouboul"
+  },
+  {
+    "id": 586,
+    "en": "sawsbuck",
+    "fr": "Haydaim"
+  },
+  {
+    "id": 589,
+    "en": "escavalier",
+    "fr": "Lançargot"
+  },
+  {
+    "id": 591,
+    "en": "amoonguss",
+    "fr": "Gaulet"
+  },
+  {
+    "id": 593,
+    "en": "jellicent",
+    "fr": "Moyade"
+  },
+  {
+    "id": 596,
+    "en": "galvantula",
+    "fr": "Mygavolt"
+  },
+  {
+    "id": 598,
+    "en": "ferrothorn",
+    "fr": "Noacier"
+  },
+  {
+    "id": 600,
+    "en": "klang",
+    "fr": "Clic"
+  },
+  {
+    "id": 603,
+    "en": "eelektrik",
+    "fr": "Lampéroie"
+  },
+  {
+    "id": 604,
+    "en": "eelektross",
+    "fr": "Ohmassacre"
+  },
+  {
+    "id": 606,
+    "en": "beheeyem",
+    "fr": "Neitram"
+  },
+  {
+    "id": 608,
+    "en": "lampent",
+    "fr": "Mélancolux"
+  },
+  {
+    "id": 610,
+    "en": "axew",
+    "fr": "Coupenotte"
+  },
+  {
+    "id": 613,
+    "en": "cubchoo",
+    "fr": "Polarhume"
+  },
+  {
+    "id": 615,
+    "en": "cryogonal",
+    "fr": "Hexagel"
+  },
+  {
+    "id": 616,
+    "en": "shelmet",
+    "fr": "Escargaume"
+  },
+  {
+    "id": 618,
+    "en": "stunfisk",
+    "fr": "Limonde"
+  },
+  {
+    "id": 619,
+    "en": "mienfoo",
+    "fr": "Kungfouine"
+  },
+  {
+    "id": 621,
+    "en": "druddigon",
+    "fr": "Drakkarmin"
+  },
+  {
+    "id": 622,
+    "en": "golett",
+    "fr": "Gringolem"
+  },
+  {
+    "id": 624,
+    "en": "pawniard",
+    "fr": "Scalpion"
+  },
+  {
+    "id": 626,
+    "en": "bouffalant",
+    "fr": "Frison"
+  },
+  {
+    "id": 627,
+    "en": "rufflet",
+    "fr": "Furaiglon"
+  },
+  {
+    "id": 629,
+    "en": "vullaby",
+    "fr": "Vostourno"
+  },
+  {
+    "id": 631,
+    "en": "heatmor",
+    "fr": "Aflamanoir"
+  },
+  {
+    "id": 632,
+    "en": "durant",
+    "fr": "Fermite"
+  },
+  {
+    "id": 633,
+    "en": "deino",
+    "fr": "Solochi"
+  },
+  {
+    "id": 636,
+    "en": "larvesta",
+    "fr": "Pyronille"
+  },
+  {
+    "id": 638,
+    "en": "cobalion",
+    "fr": "Cobaltium"
+  },
+  {
+    "id": 639,
+    "en": "terrakion",
+    "fr": "Terrakium"
+  },
+  {
+    "id": 640,
+    "en": "virizion",
+    "fr": "Viridium"
+  },
+  {
+    "id": 641,
+    "en": "tornadus",
+    "fr": "Boréas"
+  },
+  {
+    "id": 642,
+    "en": "thundurus",
+    "fr": "Fulguris"
+  },
+  {
+    "id": 643,
+    "en": "reshiram",
+    "fr": "Reshiram"
+  },
+  {
+    "id": 644,
+    "en": "zekrom",
+    "fr": "Zekrom"
+  },
+  {
+    "id": 645,
+    "en": "landorus",
+    "fr": "Démétéros"
+  },
+  {
+    "id": 646,
+    "en": "kyurem",
+    "fr": "Kyurem"
+  },
+  {
+    "id": 647,
+    "en": "keldeo",
+    "fr": "Keldeo"
+  },
+  {
+    "id": 648,
+    "en": "meloetta",
+    "fr": "Meloetta"
+  },
+  {
+    "id": 649,
+    "en": "genesect",
+    "fr": "Genesect"
+  },
+  {
+    "id": 650,
+    "en": "chespin",
+    "fr": "Marisson"
+  },
+  {
+    "id": 653,
+    "en": "fennekin",
+    "fr": "Feunnec"
+  },
+  {
+    "id": 656,
+    "en": "froakie",
+    "fr": "Grenousse"
+  },
+  {
+    "id": 659,
+    "en": "bunnelby",
+    "fr": "Sapereau"
+  },
+  {
+    "id": 661,
+    "en": "fletchling",
+    "fr": "Passerouge"
+  },
+  {
+    "id": 664,
+    "en": "scatterbug",
+    "fr": "Lépidonille"
+  },
+  {
+    "id": 667,
+    "en": "litleo",
+    "fr": "Hélionceau"
+  },
+  {
+    "id": 669,
+    "en": "flabebe",
+    "fr": "Flabébé"
+  },
+  {
+    "id": 672,
+    "en": "skiddo",
+    "fr": "Cabriolaine"
+  },
+  {
+    "id": 674,
+    "en": "pancham",
+    "fr": "Pandespiègle"
+  },
+  {
+    "id": 676,
+    "en": "furfrou",
+    "fr": "Couafarel"
+  },
+  {
+    "id": 677,
+    "en": "espurr",
+    "fr": "Psystigri"
+  },
+  {
+    "id": 679,
+    "en": "honedge",
+    "fr": "Monorpale"
+  },
+  {
+    "id": 682,
+    "en": "spritzee",
+    "fr": "Fluvetin"
+  },
+  {
+    "id": 684,
+    "en": "swirlix",
+    "fr": "Sucroquin"
+  },
+  {
+    "id": 686,
+    "en": "inkay",
+    "fr": "Sepiatop"
+  },
+  {
+    "id": 611,
+    "en": "fraxure",
+    "fr": "Incisache"
+  },
+  {
+    "id": 612,
+    "en": "haxorus",
+    "fr": "Tranchodon"
+  },
+  {
+    "id": 614,
+    "en": "beartic",
+    "fr": "Polagriffe"
+  },
+  {
+    "id": 617,
+    "en": "accelgor",
+    "fr": "Limaspeed"
+  },
+  {
+    "id": 623,
+    "en": "golurk",
+    "fr": "Golemastoc"
+  },
+  {
+    "id": 625,
+    "en": "bisharp",
+    "fr": "Scalproie"
+  },
+  {
+    "id": 628,
+    "en": "braviary",
+    "fr": "Gueriaigle"
+  },
+  {
+    "id": 630,
+    "en": "mandibuzz",
+    "fr": "Vaututrice"
+  },
+  {
+    "id": 634,
+    "en": "zweilous",
+    "fr": "Diamat"
+  },
+  {
+    "id": 635,
+    "en": "hydreigon",
+    "fr": "Trioxhydre"
+  },
+  {
+    "id": 637,
+    "en": "volcarona",
+    "fr": "Pyrax"
+  },
+  {
+    "id": 651,
+    "en": "quilladin",
+    "fr": "Boguérisse"
+  },
+  {
+    "id": 652,
+    "en": "chesnaught",
+    "fr": "Blindépique"
+  },
+  {
+    "id": 654,
+    "en": "braixen",
+    "fr": "Roussil"
+  },
+  {
+    "id": 655,
+    "en": "delphox",
+    "fr": "Goupelin"
+  },
+  {
+    "id": 657,
+    "en": "frogadier",
+    "fr": "Croâporal"
+  },
+  {
+    "id": 658,
+    "en": "greninja",
+    "fr": "Amphinobi"
+  },
+  {
+    "id": 660,
+    "en": "diggersby",
+    "fr": "Excavarenne"
+  },
+  {
+    "id": 662,
+    "en": "fletchinder",
+    "fr": "Braisillon"
+  },
+  {
+    "id": 663,
+    "en": "talonflame",
+    "fr": "Flambusard"
+  },
+  {
+    "id": 665,
+    "en": "spewpa",
+    "fr": "Pérégrain"
+  },
+  {
+    "id": 668,
+    "en": "pyroar",
+    "fr": "Némélios"
+  },
+  {
+    "id": 670,
+    "en": "floette",
+    "fr": "Floette"
+  },
+  {
+    "id": 671,
+    "en": "florges",
+    "fr": "Florges"
+  },
+  {
+    "id": 673,
+    "en": "gogoat",
+    "fr": "Chevroum"
+  },
+  {
+    "id": 675,
+    "en": "pangoro",
+    "fr": "Pandarbare"
+  },
+  {
+    "id": 678,
+    "en": "meowstic",
+    "fr": "Mistigrix"
+  },
+  {
+    "id": 680,
+    "en": "doublade",
+    "fr": "Dimoclès"
+  },
+  {
+    "id": 681,
+    "en": "aegislash",
+    "fr": "Exagide"
+  },
+  {
+    "id": 683,
+    "en": "aromatisse",
+    "fr": "Cocotine"
+  },
+  {
+    "id": 685,
+    "en": "slurpuff",
+    "fr": "Cupcanaille"
+  },
+  {
+    "id": 688,
+    "en": "binacle",
+    "fr": "Opermine"
+  },
+  {
+    "id": 690,
+    "en": "skrelp",
+    "fr": "Venalgue"
+  },
+  {
+    "id": 692,
+    "en": "clauncher",
+    "fr": "Flingouste"
+  },
+  {
+    "id": 694,
+    "en": "helioptile",
+    "fr": "Galvaran"
+  },
+  {
+    "id": 696,
+    "en": "tyrunt",
+    "fr": "Ptyranidur"
+  },
+  {
+    "id": 698,
+    "en": "amaura",
+    "fr": "Amagara"
+  },
+  {
+    "id": 701,
+    "en": "hawlucha",
+    "fr": "Brutalibré"
+  },
+  {
+    "id": 702,
+    "en": "dedenne",
+    "fr": "Dedenne"
+  },
+  {
+    "id": 703,
+    "en": "carbink",
+    "fr": "Strassie"
+  },
+  {
+    "id": 704,
+    "en": "goomy",
+    "fr": "Mucuscule"
+  },
+  {
+    "id": 707,
+    "en": "klefki",
+    "fr": "Trousselin"
+  },
+  {
+    "id": 708,
+    "en": "phantump",
+    "fr": "Brocélôme"
+  },
+  {
+    "id": 710,
+    "en": "pumpkaboo",
+    "fr": "Pitrouille"
+  },
+  {
+    "id": 712,
+    "en": "bergmite",
+    "fr": "Grelaçon"
+  },
+  {
+    "id": 714,
+    "en": "noibat",
+    "fr": "Sonistrelle"
+  },
+  {
+    "id": 716,
+    "en": "xerneas",
+    "fr": "Xerneas"
+  },
+  {
+    "id": 717,
+    "en": "yveltal",
+    "fr": "Yveltal"
+  },
+  {
+    "id": 718,
+    "en": "zygarde",
+    "fr": "Zygarde"
+  },
+  {
+    "id": 719,
+    "en": "diancie",
+    "fr": "Diancie"
+  },
+  {
+    "id": 720,
+    "en": "hoopa",
+    "fr": "Hoopa"
+  },
+  {
+    "id": 721,
+    "en": "volcanion",
+    "fr": "Volcanion"
+  },
+  {
+    "id": 722,
+    "en": "rowlet",
+    "fr": "Brindibou"
+  },
+  {
+    "id": 725,
+    "en": "litten",
+    "fr": "Flamiaou"
+  },
+  {
+    "id": 728,
+    "en": "popplio",
+    "fr": "Otaquin"
+  },
+  {
+    "id": 731,
+    "en": "pikipek",
+    "fr": "Picassaut"
+  },
+  {
+    "id": 734,
+    "en": "yungoos",
+    "fr": "Manglouton"
+  },
+  {
+    "id": 736,
+    "en": "grubbin",
+    "fr": "Larvibule"
+  },
+  {
+    "id": 739,
+    "en": "crabrawler",
+    "fr": "Crabagarre"
+  },
+  {
+    "id": 741,
+    "en": "oricorio",
+    "fr": "Plumeline"
+  },
+  {
+    "id": 742,
+    "en": "cutiefly",
+    "fr": "Bombydou"
+  },
+  {
+    "id": 744,
+    "en": "rockruff",
+    "fr": "Rocabot"
+  },
+  {
+    "id": 746,
+    "en": "wishiwashi",
+    "fr": "Froussardine"
+  },
+  {
+    "id": 747,
+    "en": "mareanie",
+    "fr": "Vorastérie"
+  },
+  {
+    "id": 749,
+    "en": "mudbray",
+    "fr": "Tiboudet"
+  },
+  {
+    "id": 751,
+    "en": "dewpider",
+    "fr": "Araqua"
+  },
+  {
+    "id": 753,
+    "en": "fomantis",
+    "fr": "Mimantis"
+  },
+  {
+    "id": 755,
+    "en": "morelull",
+    "fr": "Spododo"
+  },
+  {
+    "id": 757,
+    "en": "salandit",
+    "fr": "Tritox"
+  },
+  {
+    "id": 759,
+    "en": "stufful",
+    "fr": "Nounourson"
+  },
+  {
+    "id": 761,
+    "en": "bounsweet",
+    "fr": "Croquine"
+  },
+  {
+    "id": 764,
+    "en": "comfey",
+    "fr": "Guérilande"
+  },
+  {
+    "id": 689,
+    "en": "barbaracle",
+    "fr": "Golgopathe"
+  },
+  {
+    "id": 691,
+    "en": "dragalge",
+    "fr": "Kravarech"
+  },
+  {
+    "id": 693,
+    "en": "clawitzer",
+    "fr": "Gamblast"
+  },
+  {
+    "id": 695,
+    "en": "heliolisk",
+    "fr": "Iguolta"
+  },
+  {
+    "id": 699,
+    "en": "aurorus",
+    "fr": "Dragmara"
+  },
+  {
+    "id": 700,
+    "en": "sylveon",
+    "fr": "Nymphali"
+  },
+  {
+    "id": 705,
+    "en": "sliggoo",
+    "fr": "Colimucus"
+  },
+  {
+    "id": 706,
+    "en": "goodra",
+    "fr": "Muplodocus"
+  },
+  {
+    "id": 709,
+    "en": "trevenant",
+    "fr": "Desséliande"
+  },
+  {
+    "id": 711,
+    "en": "gourgeist",
+    "fr": "Banshitrouye"
+  },
+  {
+    "id": 713,
+    "en": "avalugg",
+    "fr": "Séracrawl"
+  },
+  {
+    "id": 715,
+    "en": "noivern",
+    "fr": "Bruyverne"
+  },
+  {
+    "id": 723,
+    "en": "dartrix",
+    "fr": "Efflèche"
+  },
+  {
+    "id": 724,
+    "en": "decidueye",
+    "fr": "Archéduc"
+  },
+  {
+    "id": 726,
+    "en": "torracat",
+    "fr": "Matoufeu"
+  },
+  {
+    "id": 727,
+    "en": "incineroar",
+    "fr": "Félinferno"
+  },
+  {
+    "id": 730,
+    "en": "primarina",
+    "fr": "Oratoria"
+  },
+  {
+    "id": 732,
+    "en": "trumbeak",
+    "fr": "Piclairon"
+  },
+  {
+    "id": 733,
+    "en": "toucannon",
+    "fr": "Bazoucan"
+  },
+  {
+    "id": 735,
+    "en": "gumshoos",
+    "fr": "Argouste"
+  },
+  {
+    "id": 737,
+    "en": "charjabug",
+    "fr": "Chrysapile"
+  },
+  {
+    "id": 738,
+    "en": "vikavolt",
+    "fr": "Lucanon"
+  },
+  {
+    "id": 740,
+    "en": "crabominable",
+    "fr": "Crabominable"
+  },
+  {
+    "id": 743,
+    "en": "ribombee",
+    "fr": "Rubombelle"
+  },
+  {
+    "id": 745,
+    "en": "lycanroc",
+    "fr": "Lougaroc"
+  },
+  {
+    "id": 748,
+    "en": "toxapex",
+    "fr": "Prédastérie"
+  },
+  {
+    "id": 750,
+    "en": "mudsdale",
+    "fr": "Bourrinos"
+  },
+  {
+    "id": 752,
+    "en": "araquanid",
+    "fr": "Tarenbulle"
+  },
+  {
+    "id": 754,
+    "en": "lurantis",
+    "fr": "Floramantis"
+  },
+  {
+    "id": 756,
+    "en": "shiinotic",
+    "fr": "Lampignon"
+  },
+  {
+    "id": 758,
+    "en": "salazzle",
+    "fr": "Malamandre"
+  },
+  {
+    "id": 760,
+    "en": "bewear",
+    "fr": "Chelours"
+  },
+  {
+    "id": 762,
+    "en": "steenee",
+    "fr": "Candine"
+  },
+  {
+    "id": 765,
+    "en": "oranguru",
+    "fr": "Gouroutan"
+  },
+  {
+    "id": 766,
+    "en": "passimian",
+    "fr": "Quartermac"
+  },
+  {
+    "id": 767,
+    "en": "wimpod",
+    "fr": "Sovkipou"
+  },
+  {
+    "id": 769,
+    "en": "sandygast",
+    "fr": "Bacabouh"
+  },
+  {
+    "id": 771,
+    "en": "pyukumuku",
+    "fr": "Concombaffe"
+  },
+  {
+    "id": 772,
+    "en": "type-null",
+    "fr": "Type:0"
+  },
+  {
+    "id": 774,
+    "en": "minior",
+    "fr": "Météno"
+  },
+  {
+    "id": 775,
+    "en": "komala",
+    "fr": "Dodoala"
+  },
+  {
+    "id": 776,
+    "en": "turtonator",
+    "fr": "Boumata"
+  },
+  {
+    "id": 777,
+    "en": "togedemaru",
+    "fr": "Togedemaru"
+  },
+  {
+    "id": 778,
+    "en": "mimikyu",
+    "fr": "Mimiqui"
+  },
+  {
+    "id": 779,
+    "en": "bruxish",
+    "fr": "Denticrisse"
+  },
+  {
+    "id": 780,
+    "en": "drampa",
+    "fr": "Draïeul"
+  },
+  {
+    "id": 781,
+    "en": "dhelmise",
+    "fr": "Sinistrail"
+  },
+  {
+    "id": 782,
+    "en": "jangmo-o",
+    "fr": "Bébécaille"
+  },
+  {
+    "id": 785,
+    "en": "tapu-koko",
+    "fr": "Tokorico"
+  },
+  {
+    "id": 786,
+    "en": "tapu-lele",
+    "fr": "Tokopiyon"
+  },
+  {
+    "id": 787,
+    "en": "tapu-bulu",
+    "fr": "Tokotoro"
+  },
+  {
+    "id": 788,
+    "en": "tapu-fini",
+    "fr": "Tokopisco"
+  },
+  {
+    "id": 789,
+    "en": "cosmog",
+    "fr": "Cosmog"
+  },
+  {
+    "id": 793,
+    "en": "nihilego",
+    "fr": "Zéroïd"
+  },
+  {
+    "id": 794,
+    "en": "buzzwole",
+    "fr": "Mouscoto"
+  },
+  {
+    "id": 795,
+    "en": "pheromosa",
+    "fr": "Cancrelove"
+  },
+  {
+    "id": 796,
+    "en": "xurkitree",
+    "fr": "Câblifère"
+  },
+  {
+    "id": 797,
+    "en": "celesteela",
+    "fr": "Bamboiselle"
+  },
+  {
+    "id": 798,
+    "en": "kartana",
+    "fr": "Katagami"
+  },
+  {
+    "id": 799,
+    "en": "guzzlord",
+    "fr": "Engloutyran"
+  },
+  {
+    "id": 800,
+    "en": "necrozma",
+    "fr": "Necrozma"
+  },
+  {
+    "id": 801,
+    "en": "magearna",
+    "fr": "Magearna"
+  },
+  {
+    "id": 802,
+    "en": "marshadow",
+    "fr": "Marshadow"
+  },
+  {
+    "id": 803,
+    "en": "poipole",
+    "fr": "Vémini"
+  },
+  {
+    "id": 805,
+    "en": "stakataka",
+    "fr": "Ama-Ama"
+  },
+  {
+    "id": 806,
+    "en": "blacephalon",
+    "fr": "Pierroteknik"
+  },
+  {
+    "id": 807,
+    "en": "zeraora",
+    "fr": "Zeraora"
+  },
+  {
+    "id": 808,
+    "en": "meltan",
+    "fr": "Meltan"
+  },
+  {
+    "id": 810,
+    "en": "grookey",
+    "fr": "Ouistempo"
+  },
+  {
+    "id": 813,
+    "en": "scorbunny",
+    "fr": "Flambino"
+  },
+  {
+    "id": 816,
+    "en": "sobble",
+    "fr": "Larméléon"
+  },
+  {
+    "id": 819,
+    "en": "skwovet",
+    "fr": "Rongourmand"
+  },
+  {
+    "id": 821,
+    "en": "rookidee",
+    "fr": "Minisange"
+  },
+  {
+    "id": 824,
+    "en": "blipbug",
+    "fr": "Larvadar"
+  },
+  {
+    "id": 827,
+    "en": "nickit",
+    "fr": "Goupilou"
+  },
+  {
+    "id": 829,
+    "en": "gossifleur",
+    "fr": "Tournicoton"
+  },
+  {
+    "id": 831,
+    "en": "wooloo",
+    "fr": "Moumouton"
+  },
+  {
+    "id": 833,
+    "en": "chewtle",
+    "fr": "Khélocrok"
+  },
+  {
+    "id": 835,
+    "en": "yamper",
+    "fr": "Voltoutou"
+  },
+  {
+    "id": 837,
+    "en": "rolycoly",
+    "fr": "Charbi"
+  },
+  {
+    "id": 840,
+    "en": "applin",
+    "fr": "Verpom"
+  },
+  {
+    "id": 919,
+    "en": "nymble",
+    "fr": "Lilliterelle"
+  },
+  {
+    "id": 773,
+    "en": "silvally",
+    "fr": "Silvallié"
+  },
+  {
+    "id": 783,
+    "en": "hakamo-o",
+    "fr": "Écaïd"
+  },
+  {
+    "id": 784,
+    "en": "kommo-o",
+    "fr": "Ékaïser"
+  },
+  {
+    "id": 790,
+    "en": "cosmoem",
+    "fr": "Cosmovum"
+  },
+  {
+    "id": 791,
+    "en": "solgaleo",
+    "fr": "Solgaleo"
+  },
+  {
+    "id": 792,
+    "en": "lunala",
+    "fr": "Lunala"
+  },
+  {
+    "id": 804,
+    "en": "naganadel",
+    "fr": "Mandrillon"
+  },
+  {
+    "id": 809,
+    "en": "melmetal",
+    "fr": "Melmetal"
+  },
+  {
+    "id": 811,
+    "en": "thwackey",
+    "fr": "Badabouin"
+  },
+  {
+    "id": 812,
+    "en": "rillaboom",
+    "fr": "Gorythmic"
+  },
+  {
+    "id": 814,
+    "en": "raboot",
+    "fr": "Lapyro"
+  },
+  {
+    "id": 815,
+    "en": "cinderace",
+    "fr": "Pyrobut"
+  },
+  {
+    "id": 817,
+    "en": "drizzile",
+    "fr": "Arrozard"
+  },
+  {
+    "id": 818,
+    "en": "inteleon",
+    "fr": "Lézargus"
+  },
+  {
+    "id": 820,
+    "en": "greedent",
+    "fr": "Rongrigou"
+  },
+  {
+    "id": 822,
+    "en": "corvisquire",
+    "fr": "Bleuseille"
+  },
+  {
+    "id": 823,
+    "en": "corviknight",
+    "fr": "Corvaillus"
+  },
+  {
+    "id": 825,
+    "en": "dottler",
+    "fr": "Coléodôme"
+  },
+  {
+    "id": 828,
+    "en": "thievul",
+    "fr": "Roublenard"
+  },
+  {
+    "id": 830,
+    "en": "eldegoss",
+    "fr": "Blancoton"
+  },
+  {
+    "id": 832,
+    "en": "dubwool",
+    "fr": "Moumouflon"
+  },
+  {
+    "id": 834,
+    "en": "drednaw",
+    "fr": "Torgamord"
+  },
+  {
+    "id": 836,
+    "en": "boltund",
+    "fr": "Fulgudog"
+  },
+  {
+    "id": 838,
+    "en": "carkol",
+    "fr": "Wagomine"
+  },
+  {
+    "id": 839,
+    "en": "coalossal",
+    "fr": "Monthracite"
+  },
+  {
+    "id": 841,
+    "en": "flapple",
+    "fr": "Pomdrapi"
+  },
+  {
+    "id": 843,
+    "en": "silicobra",
+    "fr": "Dunaja"
+  },
+  {
+    "id": 845,
+    "en": "cramorant",
+    "fr": "Nigosier"
+  },
+  {
+    "id": 846,
+    "en": "arrokuda",
+    "fr": "Embrochet"
+  },
+  {
+    "id": 848,
+    "en": "toxel",
+    "fr": "Toxizap"
+  },
+  {
+    "id": 850,
+    "en": "sizzlipede",
+    "fr": "Grillepattes"
+  },
+  {
+    "id": 852,
+    "en": "clobbopus",
+    "fr": "Poulpaf"
+  },
+  {
+    "id": 854,
+    "en": "sinistea",
+    "fr": "Théffroi"
+  },
+  {
+    "id": 856,
+    "en": "hatenna",
+    "fr": "Bibichut"
+  },
+  {
+    "id": 859,
+    "en": "impidimp",
+    "fr": "Grimalin"
+  },
+  {
+    "id": 868,
+    "en": "milcery",
+    "fr": "Crèmy"
+  },
+  {
+    "id": 870,
+    "en": "falinks",
+    "fr": "Hexadron"
+  },
+  {
+    "id": 871,
+    "en": "pincurchin",
+    "fr": "Wattapik"
+  },
+  {
+    "id": 872,
+    "en": "snom",
+    "fr": "Frissonille"
+  },
+  {
+    "id": 874,
+    "en": "stonjourner",
+    "fr": "Dolman"
+  },
+  {
+    "id": 875,
+    "en": "eiscue",
+    "fr": "Bekaglaçon"
+  },
+  {
+    "id": 876,
+    "en": "indeedee",
+    "fr": "Wimessir"
+  },
+  {
+    "id": 877,
+    "en": "morpeko",
+    "fr": "Morpeko"
+  },
+  {
+    "id": 878,
+    "en": "cufant",
+    "fr": "Charibari"
+  },
+  {
+    "id": 880,
+    "en": "dracozolt",
+    "fr": "Galvagon"
+  },
+  {
+    "id": 881,
+    "en": "arctozolt",
+    "fr": "Galvagla"
+  },
+  {
+    "id": 882,
+    "en": "dracovish",
+    "fr": "Hydragon"
+  },
+  {
+    "id": 883,
+    "en": "arctovish",
+    "fr": "Hydragla"
+  },
+  {
+    "id": 884,
+    "en": "duraludon",
+    "fr": "Duralugon"
+  },
+  {
+    "id": 885,
+    "en": "dreepy",
+    "fr": "Fantyrm"
+  },
+  {
+    "id": 888,
+    "en": "zacian",
+    "fr": "Zacian"
+  },
+  {
+    "id": 889,
+    "en": "zamazenta",
+    "fr": "Zamazenta"
+  },
+  {
+    "id": 890,
+    "en": "eternatus",
+    "fr": "Éthernatos"
+  },
+  {
+    "id": 891,
+    "en": "kubfu",
+    "fr": "Wushours"
+  },
+  {
+    "id": 893,
+    "en": "zarude",
+    "fr": "Zarude"
+  },
+  {
+    "id": 894,
+    "en": "regieleki",
+    "fr": "Regieleki"
+  },
+  {
+    "id": 895,
+    "en": "regidrago",
+    "fr": "Regidrago"
+  },
+  {
+    "id": 896,
+    "en": "glastrier",
+    "fr": "Blizzeval"
+  },
+  {
+    "id": 897,
+    "en": "spectrier",
+    "fr": "Spectreval"
+  },
+  {
+    "id": 898,
+    "en": "calyrex",
+    "fr": "Sylveroy"
+  },
+  {
+    "id": 905,
+    "en": "enamorus",
+    "fr": "Amovénus"
+  },
+  {
+    "id": 906,
+    "en": "sprigatito",
+    "fr": "Poussacha"
+  },
+  {
+    "id": 909,
+    "en": "fuecoco",
+    "fr": "Chochodile"
+  },
+  {
+    "id": 912,
+    "en": "quaxly",
+    "fr": "Coiffeton"
+  },
+  {
+    "id": 915,
+    "en": "lechonk",
+    "fr": "Gourmelet"
+  },
+  {
+    "id": 917,
+    "en": "tarountula",
+    "fr": "Tissenboule"
+  },
+  {
+    "id": 844,
+    "en": "sandaconda",
+    "fr": "Dunaconda"
+  },
+  {
+    "id": 847,
+    "en": "barraskewda",
+    "fr": "Hastacuda"
+  },
+  {
+    "id": 849,
+    "en": "toxtricity",
+    "fr": "Salarsen"
+  },
+  {
+    "id": 851,
+    "en": "centiskorch",
+    "fr": "Scolocendre"
+  },
+  {
+    "id": 853,
+    "en": "grapploct",
+    "fr": "Krakos"
+  },
+  {
+    "id": 855,
+    "en": "polteageist",
+    "fr": "Polthégeist"
+  },
+  {
+    "id": 857,
+    "en": "hattrem",
+    "fr": "Chapotus"
+  },
+  {
+    "id": 858,
+    "en": "hatterene",
+    "fr": "Sorcilence"
+  },
+  {
+    "id": 860,
+    "en": "morgrem",
+    "fr": "Fourbelin"
+  },
+  {
+    "id": 862,
+    "en": "obstagoon",
+    "fr": "Ixon"
+  },
+  {
+    "id": 863,
+    "en": "perrserker",
+    "fr": "Berserkatt"
+  },
+  {
+    "id": 864,
+    "en": "cursola",
+    "fr": "Corayôme"
+  },
+  {
+    "id": 865,
+    "en": "sirfetchd",
+    "fr": "Palarticho"
+  },
+  {
+    "id": 866,
+    "en": "mr-rime",
+    "fr": "M. Glaquette"
+  },
+  {
+    "id": 867,
+    "en": "runerigus",
+    "fr": "Tutétékri"
+  },
+  {
+    "id": 869,
+    "en": "alcremie",
+    "fr": "Charmilly"
+  },
+  {
+    "id": 873,
+    "en": "frosmoth",
+    "fr": "Beldeneige"
+  },
+  {
+    "id": 879,
+    "en": "copperajah",
+    "fr": "Pachyradjah"
+  },
+  {
+    "id": 886,
+    "en": "drakloak",
+    "fr": "Dispareptil"
+  },
+  {
+    "id": 887,
+    "en": "dragapult",
+    "fr": "Lanssorien"
+  },
+  {
+    "id": 892,
+    "en": "urshifu",
+    "fr": "Shifours"
+  },
+  {
+    "id": 899,
+    "en": "wyrdeer",
+    "fr": "Cerbyllin"
+  },
+  {
+    "id": 900,
+    "en": "kleavor",
+    "fr": "Hachécateur"
+  },
+  {
+    "id": 902,
+    "en": "basculegion",
+    "fr": "Paragruel"
+  },
+  {
+    "id": 903,
+    "en": "sneasler",
+    "fr": "Farfurex"
+  },
+  {
+    "id": 904,
+    "en": "overqwil",
+    "fr": "Qwilpik"
+  },
+  {
+    "id": 907,
+    "en": "floragato",
+    "fr": "Matourgeon"
+  },
+  {
+    "id": 908,
+    "en": "meowscarada",
+    "fr": "Miascarade"
+  },
+  {
+    "id": 910,
+    "en": "crocalor",
+    "fr": "Crocogril"
+  },
+  {
+    "id": 911,
+    "en": "skeledirge",
+    "fr": "Flâmigator"
+  },
+  {
+    "id": 913,
+    "en": "quaxwell",
+    "fr": "Canarbello"
+  },
+  {
+    "id": 914,
+    "en": "quaquaval",
+    "fr": "Palmaval"
+  },
+  {
+    "id": 916,
+    "en": "oinkologne",
+    "fr": "Fragroin"
+  },
+  {
+    "id": 918,
+    "en": "spidops",
+    "fr": "Filentrappe"
+  },
+  {
+    "id": 921,
+    "en": "pawmi",
+    "fr": "Pohm"
+  },
+  {
+    "id": 924,
+    "en": "tandemaus",
+    "fr": "Compagnol"
+  },
+  {
+    "id": 926,
+    "en": "fidough",
+    "fr": "Pâtachiot"
+  },
+  {
+    "id": 928,
+    "en": "smoliv",
+    "fr": "Olivini"
+  },
+  {
+    "id": 931,
+    "en": "squawkabilly",
+    "fr": "Tapatoès"
+  },
+  {
+    "id": 932,
+    "en": "nacli",
+    "fr": "Selutin"
+  },
+  {
+    "id": 935,
+    "en": "charcadet",
+    "fr": "Charbambin"
+  },
+  {
+    "id": 938,
+    "en": "tadbulb",
+    "fr": "Têtampoule"
+  },
+  {
+    "id": 940,
+    "en": "wattrel",
+    "fr": "Zapétrel"
+  },
+  {
+    "id": 942,
+    "en": "maschiff",
+    "fr": "Grondogue"
+  },
+  {
+    "id": 944,
+    "en": "shroodle",
+    "fr": "Gribouraigne"
+  },
+  {
+    "id": 946,
+    "en": "bramblin",
+    "fr": "Virovent"
+  },
+  {
+    "id": 948,
+    "en": "toedscool",
+    "fr": "Terracool"
+  },
+  {
+    "id": 950,
+    "en": "klawf",
+    "fr": "Craparoi"
+  },
+  {
+    "id": 951,
+    "en": "capsakid",
+    "fr": "Pimito"
+  },
+  {
+    "id": 953,
+    "en": "rellor",
+    "fr": "Léboulérou"
+  },
+  {
+    "id": 955,
+    "en": "flittle",
+    "fr": "Flotillon"
+  },
+  {
+    "id": 957,
+    "en": "tinkatink",
+    "fr": "Forgerette"
+  },
+  {
+    "id": 960,
+    "en": "wiglett",
+    "fr": "Taupikeau"
+  },
+  {
+    "id": 962,
+    "en": "bombirdier",
+    "fr": "Lestombaile"
+  },
+  {
+    "id": 963,
+    "en": "finizen",
+    "fr": "Dofin"
+  },
+  {
+    "id": 965,
+    "en": "varoom",
+    "fr": "Vrombi"
+  },
+  {
+    "id": 967,
+    "en": "cyclizar",
+    "fr": "Motorizard"
+  },
+  {
+    "id": 968,
+    "en": "orthworm",
+    "fr": "Ferdeter"
+  },
+  {
+    "id": 969,
+    "en": "glimmet",
+    "fr": "Germéclat"
+  },
+  {
+    "id": 971,
+    "en": "greavard",
+    "fr": "Toutombe"
+  },
+  {
+    "id": 973,
+    "en": "flamigo",
+    "fr": "Flamenroule"
+  },
+  {
+    "id": 974,
+    "en": "cetoddle",
+    "fr": "Piétacé"
+  },
+  {
+    "id": 976,
+    "en": "veluza",
+    "fr": "Délestin"
+  },
+  {
+    "id": 977,
+    "en": "dondozo",
+    "fr": "Oyacata"
+  },
+  {
+    "id": 978,
+    "en": "tatsugiri",
+    "fr": "Nigirigon"
+  },
+  {
+    "id": 984,
+    "en": "great-tusk",
+    "fr": "Fort-Ivoire"
+  },
+  {
+    "id": 985,
+    "en": "scream-tail",
+    "fr": "Hurle-Queue"
+  },
+  {
+    "id": 986,
+    "en": "brute-bonnet",
+    "fr": "Fongus-Furie"
+  },
+  {
+    "id": 987,
+    "en": "flutter-mane",
+    "fr": "Flotte-Mèche"
+  },
+  {
+    "id": 988,
+    "en": "slither-wing",
+    "fr": "Rampe-Ailes"
+  },
+  {
+    "id": 989,
+    "en": "sandy-shocks",
+    "fr": "Pelage-Sablé"
+  },
+  {
+    "id": 990,
+    "en": "iron-treads",
+    "fr": "Roue-de-Fer"
+  },
+  {
+    "id": 991,
+    "en": "iron-bundle",
+    "fr": "Hotte-de-Fer"
+  },
+  {
+    "id": 992,
+    "en": "iron-hands",
+    "fr": "Paume-de-Fer"
+  },
+  {
+    "id": 993,
+    "en": "iron-jugulis",
+    "fr": "Têtes-de-Fer"
+  },
+  {
+    "id": 994,
+    "en": "iron-moth",
+    "fr": "Mite-de-Fer"
+  },
+  {
+    "id": 995,
+    "en": "iron-thorns",
+    "fr": "Épine-de-Fer"
+  },
+  {
+    "id": 996,
+    "en": "frigibax",
+    "fr": "Frigodo"
+  },
+  {
+    "id": 922,
+    "en": "pawmo",
+    "fr": "Pohmotte"
+  },
+  {
+    "id": 923,
+    "en": "pawmot",
+    "fr": "Pohmarmotte"
+  },
+  {
+    "id": 925,
+    "en": "maushold",
+    "fr": "Famignol"
+  },
+  {
+    "id": 927,
+    "en": "dachsbun",
+    "fr": "Briochien"
+  },
+  {
+    "id": 929,
+    "en": "dolliv",
+    "fr": "Olivado"
+  },
+  {
+    "id": 933,
+    "en": "naclstack",
+    "fr": "Amassel"
+  },
+  {
+    "id": 934,
+    "en": "garganacl",
+    "fr": "Gigansel"
+  },
+  {
+    "id": 936,
+    "en": "armarouge",
+    "fr": "Carmadura"
+  },
+  {
+    "id": 937,
+    "en": "ceruledge",
+    "fr": "Malvalame"
+  },
+  {
+    "id": 939,
+    "en": "bellibolt",
+    "fr": "Ampibidou"
+  },
+  {
+    "id": 941,
+    "en": "kilowattrel",
+    "fr": "Fulgulairo"
+  },
+  {
+    "id": 943,
+    "en": "mabosstiff",
+    "fr": "Dogrino"
+  },
+  {
+    "id": 945,
+    "en": "grafaiai",
+    "fr": "Tag-Tag"
+  },
+  {
+    "id": 947,
+    "en": "brambleghast",
+    "fr": "Virevorreur"
+  },
+  {
+    "id": 949,
+    "en": "toedscruel",
+    "fr": "Terracruel"
+  },
+  {
+    "id": 952,
+    "en": "scovillain",
+    "fr": "Scovilain"
+  },
+  {
+    "id": 954,
+    "en": "rabsca",
+    "fr": "Bérasca"
+  },
+  {
+    "id": 956,
+    "en": "espathra",
+    "fr": "Cléopsytra"
+  },
+  {
+    "id": 958,
+    "en": "tinkatuff",
+    "fr": "Forgella"
+  },
+  {
+    "id": 959,
+    "en": "tinkaton",
+    "fr": "Forgelina"
+  },
+  {
+    "id": 961,
+    "en": "wugtrio",
+    "fr": "Triopikeau"
+  },
+  {
+    "id": 964,
+    "en": "palafin",
+    "fr": "Superdofin"
+  },
+  {
+    "id": 970,
+    "en": "glimmora",
+    "fr": "Floréclat"
+  },
+  {
+    "id": 972,
+    "en": "houndstone",
+    "fr": "Tomberro"
+  },
+  {
+    "id": 975,
+    "en": "cetitan",
+    "fr": "Balbalèze"
+  },
+  {
+    "id": 979,
+    "en": "annihilape",
+    "fr": "Courrousinge"
+  },
+  {
+    "id": 980,
+    "en": "clodsire",
+    "fr": "Terraiste"
+  },
+  {
+    "id": 981,
+    "en": "farigiraf",
+    "fr": "Farigiraf"
+  },
+  {
+    "id": 982,
+    "en": "dudunsparce",
+    "fr": "Deusolourdo"
+  },
+  {
+    "id": 983,
+    "en": "kingambit",
+    "fr": "Scalpereur"
+  },
+  {
+    "id": 999,
+    "en": "gimmighoul",
+    "fr": "Mordudor"
+  },
+  {
+    "id": 1001,
+    "en": "wo-chien",
+    "fr": "Chongjian"
+  },
+  {
+    "id": 1002,
+    "en": "chien-pao",
+    "fr": "Baojian"
+  },
+  {
+    "id": 1003,
+    "en": "ting-lu",
+    "fr": "Dinglu"
+  },
+  {
+    "id": 1004,
+    "en": "chi-yu",
+    "fr": "Yuyu"
+  },
+  {
+    "id": 1005,
+    "en": "roaring-moon",
+    "fr": "Rugit-Lune"
+  },
+  {
+    "id": 1006,
+    "en": "iron-valiant",
+    "fr": "Garde-de-Fer"
+  },
+  {
+    "id": 1007,
+    "en": "koraidon",
+    "fr": "Koraidon"
+  },
+  {
+    "id": 1008,
+    "en": "miraidon",
+    "fr": "Miraidon"
+  },
+  {
+    "id": 1009,
+    "en": "walking-wake",
+    "fr": "Serpente-Eau"
+  },
+  {
+    "id": 1010,
+    "en": "iron-leaves",
+    "fr": "Vert-de-Fer"
+  },
+  {
+    "id": 1012,
+    "en": "poltchageist",
+    "fr": "Poltchageist"
+  },
+  {
+    "id": 1014,
+    "en": "okidogi",
+    "fr": "Félicanis"
+  },
+  {
+    "id": 1015,
+    "en": "munkidori",
+    "fr": "Fortusimia"
+  },
+  {
+    "id": 1016,
+    "en": "fezandipiti",
+    "fr": "Favianos"
+  },
+  {
+    "id": 1017,
+    "en": "ogerpon",
+    "fr": "Ogerpon"
+  },
+  {
+    "id": 1020,
+    "en": "gouging-fire",
+    "fr": "Feu-Perçant"
+  },
+  {
+    "id": 1021,
+    "en": "raging-bolt",
+    "fr": "Ire-Foudre"
+  },
+  {
+    "id": 1022,
+    "en": "iron-boulder",
+    "fr": "Roc-de-Fer"
+  },
+  {
+    "id": 1023,
+    "en": "iron-crown",
+    "fr": "Chef-de-Fer"
+  },
+  {
+    "id": 1024,
+    "en": "terapagos",
+    "fr": "Terapagos"
+  },
+  {
+    "id": 1025,
+    "en": "pecharunt",
+    "fr": "Pêchaminus"
+  },
+  {
+    "id": 2,
+    "en": "ivysaur",
+    "fr": "Herbizarre"
+  },
+  {
+    "id": 76,
+    "en": "golem",
+    "fr": "Grolem"
+  },
+  {
+    "id": 153,
+    "en": "bayleef",
+    "fr": "Macronium"
+  },
+  {
+    "id": 226,
+    "en": "mantine",
+    "fr": "Démanta"
+  },
+  {
+    "id": 301,
+    "en": "delcatty",
+    "fr": "Delcatty"
+  },
+  {
+    "id": 376,
+    "en": "metagross",
+    "fr": "Métalosse"
+  },
+  {
+    "id": 391,
+    "en": "monferno",
+    "fr": "Chimpenfeu"
+  },
+  {
+    "id": 423,
+    "en": "gastrodon",
+    "fr": "Tritosor"
+  },
+  {
+    "id": 454,
+    "en": "toxicroak",
+    "fr": "Coatox"
+  },
+  {
+    "id": 473,
+    "en": "mamoswine",
+    "fr": "Mammochon"
+  },
+  {
+    "id": 507,
+    "en": "herdier",
+    "fr": "Ponchien"
+  },
+  {
+    "id": 533,
+    "en": "gurdurr",
+    "fr": "Ouvrifier"
+  },
+  {
+    "id": 563,
+    "en": "cofagrigus",
+    "fr": "Tutankafer"
+  },
+  {
+    "id": 601,
+    "en": "klinklang",
+    "fr": "Cliticlic"
+  },
+  {
+    "id": 609,
+    "en": "chandelure",
+    "fr": "Lugulabre"
+  },
+  {
+    "id": 620,
+    "en": "mienshao",
+    "fr": "Shaofouine"
+  },
+  {
+    "id": 666,
+    "en": "vivillon",
+    "fr": "Prismillon"
+  },
+  {
+    "id": 687,
+    "en": "malamar",
+    "fr": "Sepiatroce"
+  },
+  {
+    "id": 697,
+    "en": "tyrantrum",
+    "fr": "Rexillius"
+  },
+  {
+    "id": 729,
+    "en": "brionne",
+    "fr": "Otarlette"
+  },
+  {
+    "id": 763,
+    "en": "tsareena",
+    "fr": "Sucreine"
+  },
+  {
+    "id": 768,
+    "en": "golisopod",
+    "fr": "Sarmuraï"
+  },
+  {
+    "id": 770,
+    "en": "palossand",
+    "fr": "Trépassable"
+  },
+  {
+    "id": 826,
+    "en": "orbeetle",
+    "fr": "Astronelle"
+  },
+  {
+    "id": 842,
+    "en": "appletun",
+    "fr": "Dratatin"
+  },
+  {
+    "id": 861,
+    "en": "grimmsnarl",
+    "fr": "Angoliath"
+  },
+  {
+    "id": 901,
+    "en": "ursaluna",
+    "fr": "Ursaking"
+  },
+  {
+    "id": 920,
+    "en": "lokix",
+    "fr": "Gambex"
+  },
+  {
+    "id": 930,
+    "en": "arboliva",
+    "fr": "Arboliva"
+  },
+  {
+    "id": 966,
+    "en": "revavroom",
+    "fr": "Vrombotor"
+  },
+  {
+    "id": 997,
+    "en": "arctibax",
+    "fr": "Cryodo"
+  },
+  {
+    "id": 998,
+    "en": "baxcalibur",
+    "fr": "Glaivodo"
+  },
+  {
+    "id": 1000,
+    "en": "gholdengo",
+    "fr": "Gromago"
+  },
+  {
+    "id": 1011,
+    "en": "dipplin",
+    "fr": "Pomdramour"
+  },
+  {
+    "id": 1013,
+    "en": "sinistcha",
+    "fr": "Théffroyable"
+  },
+  {
+    "id": 1018,
+    "en": "archaludon",
+    "fr": "Pondralugon"
+  },
+  {
+    "id": 1019,
+    "en": "hydrapple",
+    "fr": "Pomdorochi"
+  }
+]

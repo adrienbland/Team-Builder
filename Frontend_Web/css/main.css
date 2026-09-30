@@ -1,0 +1,284 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background: linear-gradient(135deg, var(--bg-main) 0%, #15181f 100%);
+    background-attachment: fixed;
+    color: var(--text-main);
+    min-height: 100vh;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    background-color: rgba(24, 26, 32, 0.8);
+    backdrop-filter: blur(10px);
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid var(--border-color);
+    position: sticky;
+    top: 0;
+    z-index: 50;
+}
+
+.navbar h1 {
+    background: linear-gradient(90deg, #6390F0, #F95587);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 1.8rem;
+}
+
+.navbar nav button {
+    background: none;
+    border: none;
+    color: var(--text-muted);
+    font-size: 1rem;
+    font-weight: bold;
+    cursor: pointer;
+    margin-left: 1rem;
+    padding: 0.5rem 1rem;
+    border-radius: 8px;
+    transition: all 0.2s;
+}
+
+.navbar nav button:hover {
+    background: rgba(255, 255, 255, 0.05);
+    color: white;
+}
+
+.navbar nav button.active {
+    color: var(--text-main);
+    background: rgba(99, 144, 240, 0.15);
+}
+
+#app-container {
+    padding: 2rem;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+}
+
+.pokemon-card {
+    background-color: var(--bg-card);
+    border-radius: var(--border-radius);
+    padding: 1.5rem;
+    width: 300px;
+    box-shadow: var(--shadow-card);
+    border: 1px solid var(--border-color);
+    text-align: center;
+}
+
+#app-layout {
+    display: flex;
+    height: calc(100vh - 70px); 
+    overflow: hidden;
+}
+
+#team-column {
+    width: 320px;
+    background-color: var(--bg-card);
+    border-right: 1px solid var(--border-color);
+    padding: 1.5rem;
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    box-shadow: 5px 0 15px rgba(0,0,0,0.1);
+}
+
+#team-column::-webkit-scrollbar { width: 6px; }
+#team-column::-webkit-scrollbar-thumb { background: #333; border-radius: 3px; }
+
+#details-panel {
+    flex: 1;
+    padding: 2rem;
+    background-color: transparent;
+    display: flex;
+    flex-direction: column;
+    overflow-y: auto;
+}
+
+#details-panel::-webkit-scrollbar { width: 8px; }
+#details-panel::-webkit-scrollbar-thumb { background: #444; border-radius: 4px; }
+
+.search-container {
+    max-width: 600px;
+    margin: 0 auto 2rem auto;
+    width: 100%;
+    position: relative;
+}
+
+.search-box input {
+    width: 100%;
+    padding: 15px 25px;
+    font-size: 1.1rem;
+    border-radius: 30px;
+    border: 2px solid #333;
+    background-color: var(--bg-card);
+    color: white;
+    outline: none;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+}
+
+.search-box input:focus {
+    border-color: var(--type-water);
+    box-shadow: 0 0 0 4px rgba(99, 144, 240, 0.15), 0 4px 15px rgba(0,0,0,0.2);
+    transform: translateY(-2px);
+}
+
+.placeholder-text {
+    text-align: center;
+    color: var(--text-muted);
+    font-size: 1.2rem;
+    margin-top: 50px;
+    opacity: 0.6;
+}
+
+.slot-card {
+    background-color: var(--bg-input);
+    border: 2px dashed #444;
+    border-radius: 12px;
+    padding: 10px;
+    min-height: 85px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    color: var(--text-muted);
+    position: relative;
+}
+
+.slot-card:hover {
+    background-color: #2a2e38;
+    transform: translateY(-2px);
+}
+
+.slot-card.filled {
+    border-style: solid;
+    border-color: var(--border-color);
+    background-color: var(--bg-card);
+    justify-content: flex-start;
+    gap: 15px;
+    padding-left: 15px;
+    color: var(--text-main);
+    box-shadow: var(--shadow-card);
+}
+
+.slot-card.active-slot {
+    border-color: var(--type-water);
+    background-color: rgba(99, 144, 240, 0.05);
+    box-shadow: 0 0 0 2px rgba(99, 144, 240, 0.3);
+}
+
+.slot-card img {
+    width: 60px;
+    height: 60px;
+    image-rendering: pixelated;
+}
+
+.slot-info strong { text-transform: capitalize; }
+
+.remove-btn {
+    position: absolute;
+    right: 10px;
+    background: #ff4c4c;
+    border: none;
+    color: white;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.autocomplete-results {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    background-color: var(--bg-card);
+    border: 1px solid #444;
+    border-radius: 0 0 15px 15px;
+    box-shadow: var(--shadow-card);
+    max-height: 300px;
+    overflow-y: auto;
+    z-index: 100;
+}
+
+.search-result-item {
+    display: flex;
+    align-items: center;
+    padding: 10px 20px;
+    gap: 15px;
+    cursor: pointer;
+    border-bottom: 1px solid #333;
+    transition: background 0.2s;
+}
+
+.search-result-item:hover {
+    background-color: #333;
+}
+
+.search-result-item img {
+    width: 40px;
+    height: 40px;
+}\n\n.modal-overlay { position: fixed; top: 0; left: 0; width: 100vw; height: 100vh; background: rgba(0,0,0,0.7); display: flex; justify-content: center; align-items: center; z-index: 1000; opacity: 1; transition: opacity 0.3s; }\n.modal-overlay.hidden { display: none; opacity: 0; }\n.modal-content { background-color: var(--bg-card); padding: 2rem; border-radius: 15px; max-width: 800px; width: 90%; max-height: 90vh; overflow-y: auto; position: relative; border: 1px solid #444; box-shadow: 0 10px 30px rgba(0,0,0,0.5); }\n.modal-close { position: absolute; top: 15px; right: 20px; background: none; border: none; color: #aaa; font-size: 2rem; cursor: pointer; transition: color 0.2s; }\n.modal-close:hover { color: white; }
+
+@media (max-width: 900px) {
+    #app-layout {
+        flex-direction: column;
+        height: auto;
+        overflow: visible;
+    }
+    
+    #team-column {
+        width: 100%;
+        border-right: none;
+        border-bottom: 1px solid #333;
+        flex-direction: row;
+        overflow-x: auto;
+        padding-bottom: 15px;
+    }
+    
+    .slot-card {
+        min-width: 160px;
+        flex-shrink: 0;
+        min-height: 100px;
+        flex-direction: column;
+        text-align: center;
+        gap: 5px;
+    }
+    
+    .slot-card.filled {
+        justify-content: center;
+        padding: 10px;
+    }
+    
+    .remove-btn {
+        top: 5px;
+        right: 5px;
+    }
+    
+    .team-summary {
+        min-width: 250px;
+        flex-shrink: 0;
+    }
+}
+
+@media (max-width: 600px) {
+    .navbar {
+        flex-direction: column;
+        gap: 10px;
+    }
+    
+    .navbar nav button {
+        margin: 5px;
+    }
+}

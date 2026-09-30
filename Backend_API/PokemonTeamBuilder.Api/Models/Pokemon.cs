@@ -21,7 +21,6 @@ namespace PokemonTeamBuilder.Api.Models
         public int BaseDefenseSpe {get; set;}
         public int BaseDefense { get; set; }
         public int BaseSpeed {get; set;}
-        
 
         public int Level { get; set; } = 50;
         public List<string> ActiveMoves { get; set; } = new List<string>();

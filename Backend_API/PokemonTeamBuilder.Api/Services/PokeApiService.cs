@@ -1,4 +1,4 @@
-using System.Linq; // À ajouter en haut pour manipuler les listes facilement
+using System.Linq; 
 using System.Linq;
 using System.Net.Http.Json;
 using PokemonTeamBuilder.Api.Models;
@@ -7,7 +7,7 @@ namespace PokemonTeamBuilder.Api.Services
 {
     public class PokemonApiService
     {
-        // 1. On remet la variable et le constructeur pour l'outil HTTP (très important !)
+        
         private readonly HttpClient _httpClient;
 
         public PokemonApiService(HttpClient httpClient)
@@ -15,8 +15,6 @@ namespace PokemonTeamBuilder.Api.Services
             _httpClient = httpClient; 
         }
 
-
-    
         public async Task<Pokemon?> GetPokemonAsync(string idOrName)
         {
             string url = $"https://pokeapi.co/api/v2/pokemon/{idOrName.ToLower()}/";
